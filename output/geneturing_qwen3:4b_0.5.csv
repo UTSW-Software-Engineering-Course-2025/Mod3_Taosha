@@ -1,0 +1,873 @@
+id,task,question,answer,raw_prediction,processed_prediction,score,success
+0,Gene alias,What is the official gene symbol of LMP10?,PSMB10,PSMB10,PSMB10,1,True
+1,Gene alias,What is the official gene symbol of SNAT6?,SLC38A6,SNAT6,SNAT6,0,True
+2,Gene alias,What is the official gene symbol of IMD20?,FCGR3A,IMT20,IMT20,0,True
+3,Gene alias,What is the official gene symbol of C20orf195?,FNDC11,C20orf195,C20orf195,0,True
+4,Gene alias,What is the official gene symbol of CXorf40B?,EOLA2,CXorf40B,CXorf40B,0,True
+5,Gene alias,What is the official gene symbol of QSCN6L1?,QSOX2,QSCN6L1,QSCN6L1,0,True
+6,Gene alias,What is the official gene symbol of OR11-86?,OR10A2,OR11,OR11,0,True
+7,Gene alias,What is the official gene symbol of NPAP60L?,NUP50,NPAP60L,NPAP60L,0,True
+8,Gene alias,What is the official gene symbol of AF10?,MLLT10,AF10,AF10,0,True
+9,Gene alias,What is the official gene symbol of bMRP63?,MRPL57,ABCC6,ABCC6,0,True
+10,Gene alias,What is the official gene symbol of HsT1192?,SYT4,"There is no official gene symbol associated with the identifier ""HsT1192"" in the NCBI database. This may be a non-standard identifier, a gene with no official symbol, or a typo. For accurate information, verify the identifier or consult the NCBI Gene database directly.","There is no official gene symbol associated with the identifier ""HsT1192"" in the NCBI database. This may be a non-standard identifier, a gene with no official symbol, or a typo. For accurate information, verify the identifier or consult the NCBI Gene database directly.",0,True
+11,Gene alias,What is the official gene symbol of ZNF482?,ZBTB6,ZNF482,ZNF482,0,True
+12,Gene alias,What is the official gene symbol of PTH1?,PTH,PTH,PTH,1,True
+13,Gene alias,What is the official gene symbol of AGTIL?,ASIP,AGT,AGT,0,True
+14,Gene alias,What is the official gene symbol of LEP9?,LCE2A,LEP,LEP,0,True
+15,Gene alias,What is the official gene symbol of SEP3?,SEPTIN3,SLC35A3,SLC35A3,0,True
+16,Gene alias,What is the official gene symbol of FFDD3?,TWIST2,FADS3,FADS3,0,True
+17,Gene alias,What is the official gene symbol of C6orf186?,METTL24,C6ORF186,C6ORF186,0,True
+18,Gene alias,What is the official gene symbol of hCAP?,RNGTT,CAMP,CAMP,0,True
+19,Gene alias,What is the official gene symbol of CKBBP1?,RNF7,CKBBP1,CKBBP1,0,True
+20,Gene alias,What is the official gene symbol of TFA?,F3,TFR1,TFR1,0,True
+21,Gene alias,What is the official gene symbol of BMSC-MCP?,SLC25A33,LSP1,LSP1,0,True
+22,Gene alias,What is the official gene symbol of PCH3?,PCLO,PCH3,PCH3,0,True
+23,Gene alias,What is the official gene symbol of OR11-75?,OR56A1,OR11-75,OR11-75,0,True
+24,Gene alias,What is the official gene symbol of RBAP1?,E2F1,RBAP1,RBAP1,0,True
+25,Gene alias,What is the official gene symbol of DCSCRIPT?,ZNF366,DSS1,DSS1,0,True
+26,Gene alias,What is the official gene symbol of 15-LOX?,ALOX15,LOX15,LOX15,0,True
+27,Gene alias,What is the official gene symbol of CT116?,LYPD6B,CT116,CT116,0,True
+28,Gene alias,What is the official gene symbol of PKCL?,PRKCH,PKCL,PKCL,0,True
+29,Gene alias,What is the official gene symbol of SGEF?,ARHGEF26,SGEF,SGEF,0,True
+30,Gene alias,What is the official gene symbol of CTGLF6?,AGAP9,"CTGLF6 is not a recognized official gene symbol in the NCBI Gene database. It may be an alternative name, alias, or a non-standard identifier. For accurate information, please verify using the NCBI Gene database or provide additional context.","CTGLF6 is not a recognized official gene symbol in the NCBI Gene database. It may be an alternative name, alias, or a non-standard identifier. For accurate information, please verify using the NCBI Gene database or provide additional context.",0,True
+31,Gene alias,What is the official gene symbol of FAP9?,IFT22,FAP9,FAP9,0,True
+32,Gene alias,What is the official gene symbol of MPS4B?,GLB1,MPS4B,MPS4B,0,True
+33,Gene alias,What is the official gene symbol of LSDMCA2?,COX7B,LIMC2,LIMC2,0,True
+34,Gene alias,What is the official gene symbol of PLK-5?,PLK5,PLK5,PLK5,1,True
+35,Gene alias,What is the official gene symbol of C20orf86?,ANKRD60,C20orf86,C20orf86,0,True
+36,Gene alias,What is the official gene symbol of GalNAc-T4?,POC1B-GALNT4,GNPT4,GNPT4,0,True
+37,Gene alias,What is the official gene symbol of NEDCHS?,INTS8,NEDD4,NEDD4,0,True
+38,Gene alias,What is the official gene symbol of PCPB?,CPB2,PCPB,PCPB,0,True
+39,Gene alias,What is the official gene symbol of PFDN3?,VBP1,PFDN3,PFDN3,0,True
+40,Gene alias,What is the official gene symbol of TSH2B?,H2BC1,TSHB,TSHB,0,True
+41,Gene alias,What is the official gene symbol of RSG1?,CPLANE2,RSG1,RSG1,0,True
+42,Gene alias,What is the official gene symbol of M12.219?,ADAMDEC1,C12ORF52,C12ORF52,0,True
+43,Gene alias,What is the official gene symbol of beta3Gn-T8?,B3GNT8,GNPT8,GNPT8,0,True
+44,Gene alias,What is the official gene symbol of ASV?,SRC,"ASV is not an official gene symbol. It stands for ""Amplicon Sequence Variant,"" a term used in metagenomics to describe unique sequence variants generated during PCR amplification. There is no officially recognized gene symbol ""ASV"" in standard genomic databases.","ASV is not an official gene symbol. It stands for ""Amplicon Sequence Variant,"" a term used in metagenomics to describe unique sequence variants generated during PCR amplification. There is no officially recognized gene symbol ""ASV"" in standard genomic databases.",0,True
+45,Gene alias,What is the official gene symbol of C11orf27?,UBTFL1,C11orf27,C11orf27,0,True
+46,Gene alias,What is the official gene symbol of GCS1?,MOGS,GCS1,GCS1,0,True
+47,Gene alias,What is the official gene symbol of FAM214B?,ATOSB,FAM21.4B,FAM21.4B,0,True
+48,Gene alias,What is the official gene symbol of CTTNBP1?,SHANK2,CTTNBP1,CTTNBP1,0,True
+49,Gene alias,What is the official gene symbol of PTP-SL?,PTPRR,PTPSL,PTPSL,0,True
+50,Gene disease association,What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?,['PFKL'],PFKM,['PFKM'],0,True
+51,Gene disease association,What are genes related to Distal renal tubular acidosis?,"['SLC4A1', 'ATP6V0A4']",CLCN5,['CLCN5'],0,True
+52,Gene disease association,What are genes related to Pseudohypoparathyroidism Ic?,['GNAS'],GNAS,['GNAS'],1,True
+53,Gene disease association,What are genes related to Glycine N-methyltransferase deficiency?,['GNMT'],GLO1,['GLO1'],0,True
+54,Gene disease association,What are genes related to Meesmann corneal dystrophy?,"['KRT12', 'KRT3']","KRT3, KRT12","['KRT3', 'KRT12']",0,True
+55,Gene disease association,What are genes related to Chronic atrial and intestinal dysrhythmia?,['SGO1'],"KCNH2, KCNQ1, CHRNA7","['KCNH2', 'KCNQ1', 'CHRNA7']",0,True
+56,Gene disease association,What are genes related to Sensorineural deafness with mild renal dysfunction?,['BSND'],GPR116,['GPR116'],0,True
+57,Gene disease association,What are genes related to Bile acid malabsorption?,"['SLC10A2', 'SLC51B']","ABCB1, ABCG2, SLCO1B1","['ABCB1', 'ABCG2', 'SLCO1B1']",0,True
+58,Gene disease association,What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?,['LAMTOR2'],MAPBP1,['MAPBP1'],0,True
+59,Gene disease association,What are genes related to Currarino syndrome?,['MNX1'],RASGRF1,['RASGRF1'],0,True
+60,Gene disease association,What are genes related to Intervertebral disc disease?,['COL9A3'],"COL2A1, COL1A1, COL1A2, MMP3, TGFβ2, SOX9, SLC11A1, ACAN","['COL2A1', 'COL1A1', 'COL1A2', 'MMP3', 'TGFβ2', 'SOX9', 'SLC11A1', 'ACAN']",0,True
+61,Gene disease association,What are genes related to Otofaciocervical syndrome?,"['EYA1', 'PAX1']",TMC1,['TMC1'],0,True
+62,Gene disease association,What are genes related to Brody myopathy?,['ATP2A1'],ACTN2,['ACTN2'],0,True
+63,Gene disease association,What are genes related to Neurodevelopmental disorder with gait disturbance?,['TCEAL1'],"TSC1, CNTNAP2, SLC6A1","['TSC1', 'CNTNAP2', 'SLC6A1']",0,True
+64,Gene disease association,What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?,['POLG'],TK2,['TK2'],0,True
+65,Gene disease association,What are genes related to Nephropathy due to CFHR5 deficiency?,['CFHR5'],CFHR5,['CFHR5'],1,True
+66,Gene disease association,What are genes related to Achromatopsia?,"['CNGA3', 'CNGB3', 'GNAT2', 'PDE6H', 'ATF6']","GNAS, CNGA3, CNGB3","['GNAS', 'CNGA3', 'CNGB3']",0,True
+67,Gene disease association,What are genes related to Hyperphenylalaninemia?,"['PTS', 'GCH1', 'QDPR', 'PCBD1', 'DNAJC12', 'PAH']",PAH,['PAH'],0,True
+68,Gene disease association,What are genes related to EDICT syndrome?,['MIR184'],KRT14,['KRT14'],0,True
+69,Gene disease association,What are genes related to Gastrointestinal defects and immunodeficiency syndrome?,"['PI4KA', 'TTC7A']",RORC,['RORC'],0,True
+70,Gene disease association,What are genes related to Cleft palate with ankyloglossia?,['TBX22'],"ZEB2, TGFBR2, PAX3","['ZEB2', 'TGFBR2', 'PAX3']",0,True
+71,Gene disease association,What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?,['DLL1'],"SHANK3, SCN1A, TSC1, ARX, GRIN2A","['SHANK3', 'SCN1A', 'TSC1', 'ARX', 'GRIN2A']",0,True
+72,Gene disease association,What are genes related to Spondylocarpotarsal synostosis syndrome?,['FLNB'],FGFR3,['FGFR3'],0,True
+73,Gene disease association,What are genes related to Haim-Munk syndrome?,['CTSC'],KRT12,['KRT12'],0,True
+74,Gene disease association,What are genes related to Sialidosis?,['NEU1'],HEXA,['HEXA'],0,True
+75,Gene disease association,What are genes related to Siddiqi syndrome?,['FITM2'],KRT12,['KRT12'],0,True
+76,Gene disease association,What are genes related to Corneal fleck dystrophy?,['PIKFYVE'],TGM5,['TGM5'],0,True
+77,Gene disease association,What are genes related to Liver failure?,['TRMU'],"ABCB1, ALAS2, ALDH1A2, CYP2E1, CYP4F2, FADS1, G6PD, HFE, HNF4A, KRT19, MTHFR, SLC25A3, SLC25A2, SLC25A1, SLC25A4, SLC25A5, SLC25A6, SLC2ity, SLC25A7, SLC25A8, SLC25A9, SLC25A10, SLC25A11, SLC25A12, SLC25A13, SLC25A14, SLC25A15, SLC25A16, SLC25A17, SLC25A18, SLC25A19, SLC25A20, SLC25A21, SLC25A22, SLC25A23, SLC25A24, SLC25A25, SLC25A26, SLC25A27, SLC25A28, SLC25A29, SLC25A30, SLC25A31, SLC25A32, SLC25A33, SLC25A34, SLC25A35, SLC25A36, SLC25A37, SLC25A38, SLC25A39, SLC25A40, SLC25A41, SLC25A42, SLC25A43, SLC25A44, SLC25A45, SLC25A46, SLC25A47, SLC25A48, SLC25A49, SLC25A50, SLC25A51, SLC25A52, SLC25A53, SLC25A54, SLC25A55, SLC25A56, SLC25A57, SLC25A58, SLC25A59, SLC25A60, SLC25A61, SLC25A62, SLC25A63, SLC25A64, SLC25A65, SLC25A66, SLC25A67, SLC25A68, SLC25A69, SLC25A70, SLC25A71, SLC25A72, SLC25A73, SLC25A74, SLC25A75, SLC25A76, SLC25A77, SLC25A78, SLC25A79, SLC25A80, SLC25A81, SLC25A82, SLC25A83, SLC25A84, SLC25A85, SLC25A86, SLC25A87, SLC25A88, SLC25A89, SLC25A90, SLC25A91, SLC25A92, SLC25A93, SLC25A94, SLC25A95, SLC25A96, SLC25A97, SLC25A98, SLC25A99, SLC25A100.","['ABCB1', 'ALAS2', 'ALDH1A2', 'CYP2E1', 'CYP4F2', 'FADS1', 'G6PD', 'HFE', 'HNF4A', 'KRT19', 'MTHFR', 'SLC25A3', 'SLC25A2', 'SLC25A1', 'SLC25A4', 'SLC25A5', 'SLC25A6', 'SLC2ity', 'SLC25A7', 'SLC25A8', 'SLC25A9', 'SLC25A10', 'SLC25A11', 'SLC25A12', 'SLC25A13', 'SLC25A14', 'SLC25A15', 'SLC25A16', 'SLC25A17', 'SLC25A18', 'SLC25A19', 'SLC25A20', 'SLC25A21', 'SLC25A22', 'SLC25A23', 'SLC25A24', 'SLC25A25', 'SLC25A26', 'SLC25A27', 'SLC25A28', 'SLC25A29', 'SLC25A30', 'SLC25A31', 'SLC25A32', 'SLC25A33', 'SLC25A34', 'SLC25A35', 'SLC25A36', 'SLC25A37', 'SLC25A38', 'SLC25A39', 'SLC25A40', 'SLC25A41', 'SLC25A42', 'SLC25A43', 'SLC25A44', 'SLC25A45', 'SLC25A46', 'SLC25A47', 'SLC25A48', 'SLC25A49', 'SLC25A50', 'SLC25A51', 'SLC25A52', 'SLC25A53', 'SLC25A54', 'SLC25A55', 'SLC25A56', 'SLC25A57', 'SLC25A58', 'SLC25A59', 'SLC25A60', 'SLC25A61', 'SLC25A62', 'SLC25A63', 'SLC25A64', 'SLC25A65', 'SLC25A66', 'SLC25A67', 'SLC25A68', 'SLC25A69', 'SLC25A70', 'SLC25A71', 'SLC25A72', 'SLC25A73', 'SLC25A74', 'SLC25A75', 'SLC25A76', 'SLC25A77', 'SLC25A78', 'SLC25A79', 'SLC25A80', 'SLC25A81', 'SLC25A82', 'SLC25A83', 'SLC25A84', 'SLC25A85', 'SLC25A86', 'SLC25A87', 'SLC25A88', 'SLC25A89', 'SLC25A90', 'SLC25A91', 'SLC25A92', 'SLC25A93', 'SLC25A94', 'SLC25A95', 'SLC25A96', 'SLC25A97', 'SLC25A98', 'SLC25A99', 'SLC25A100.']",0,True
+78,Gene disease association,What are genes related to Proteasome-associated autoinflammatory syndrome?,"['PSMB9', 'PSMG2', 'POMP', 'PSMB10']",PSMB8,['PSMB8'],0,True
+79,Gene disease association,What are genes related to Orofaciodigital syndrome XIV?,['C2CD3'],FOXC1,['FOXC1'],0,True
+80,Gene disease association,What are genes related to Trichoepithelioma?,['CYLD'],KRT1,['KRT1'],0,True
+81,Gene disease association,What are genes related to Medullary thyroid carcinoma?,['RET'],RET,['RET'],1,True
+82,Gene disease association,What are genes related to Type diabetes mellitus?,"['HNF1B', 'IL6', 'GPD2', 'HMGA1', 'IRS1', 'NEUROD1', 'IL6']","HLA-DRB1, HLA-DQA1, HLA-DQB1","['HLA-DRB1', 'HLA-DQA1', 'HLA-DQB1']",0,True
+83,Gene disease association,What are genes related to Buschke-Ollendorff syndrome?,['LEMD3'],KRT14,['KRT14'],0,True
+84,Gene disease association,What are genes related to Vascular malformation?,['ELMO2'],"KIT, TEK, ENG, FBN1, MYH11","['KIT', 'TEK', 'ENG', 'FBN1', 'MYH11']",0,True
+85,Gene disease association,What are genes related to Acrocallosal syndrome?,['KIF7'],SHH,['SHH'],0,True
+86,Gene disease association,What are genes related to Congenital disorder of deglycosylation?,"['NGLY1', 'MAN2C1']","PGM5, PGM1","['PGM5', 'PGM1']",0,True
+87,Gene disease association,What are genes related to Spinal muscular atrophy with congenital bone fractures?,"['TRIP4', 'ASCC1']","SMN1, SMN2","['SMN1', 'SMN2']",0,True
+88,Gene disease association,What are genes related to B-cell immunodeficiency?,['TOP2B'],"CD19, CD20, CD22","['CD19', 'CD20', 'CD22']",0,True
+89,Gene disease association,What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?,['ARPC1B'],"CD40LG, STAT3","['CD40LG', 'STAT3']",0,True
+90,Gene disease association,What are genes related to Split-foot malformation with mesoaxial polydactyly?,['MAP3K20'],HOXD13,['HOXD13'],0,True
+91,Gene disease association,What are genes related to Pigmented nodular adrenocortical disease?,"['PRKAR1A', 'PDE11A', 'PDE8B']","HSD3B3, CYP17A.1, KIF5B","['HSD3B3', 'CYP17A.1', 'KIF5B']",0,True
+92,Gene disease association,What are genes related to Superoxide dismutase?,['SOD3'],"SOD1, SOD2, SOD3","['SOD1', 'SOD2', 'SOD3']",0,True
+93,Gene disease association,What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?,['SCP2'],SLC12A5,['SLC12A5'],0,True
+94,Gene disease association,What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?,['IL6'],"ENG, ACAD10, STK10, KIT","['ENG', 'ACAD10', 'STK10', 'KIT']",0,True
+95,Gene disease association,What are genes related to Multiple system atrophy?,['COQ2'],PRKN,['PRKN'],0,True
+96,Gene disease association,What are genes related to Cone dystrophy?,"['PDE6C', 'GUCA1A']","CRX, CERAMIDE, GUCY2C","['CRX', 'CERAMIDE', 'GUCY2C']",0,True
+97,Gene disease association,What are genes related to Holt-Oram syndrome?,['TBX5'],"FOXJ1, TBX5","['FOXJ1', 'TBX5']",0,True
+98,Gene disease association,What are genes related to Lichtenstein-Knorr syndrome?,['SLC9A1'],CCL2,['CCL2'],0,True
+99,Gene disease association,What are genes related to Ablepharon-macrostomia syndrome?,['TWIST2'],"KRT12, KRT3","['KRT12', 'KRT3']",0,True
+100,Gene location,Which chromosome is FAM66D gene located on human genome?,chr8,chr15,chr15,0,True
+101,Gene location,Which chromosome is TTTY7 gene located on human genome?,chrY,chr15,chr15,0,True
+102,Gene location,Which chromosome is LA16c-329F2.2 gene located on human genome?,chr16,chr15,chr15,0,True
+103,Gene location,Which chromosome is RGS16 gene located on human genome?,chr1,chr13,chr13,0,True
+104,Gene location,Which chromosome is FOXL2NB gene located on human genome?,chr3,chr13,chr13,0,True
+105,Gene location,Which chromosome is RP11-17A4.3 gene located on human genome?,chr8,chr17,chr17,0,True
+106,Gene location,Which chromosome is EML3 gene located on human genome?,chr11,chr15,chr15,0,True
+107,Gene location,Which chromosome is LPAR2 gene located on human genome?,chr19,chr1,chr1,0,True
+108,Gene location,Which chromosome is ENSG10010137169.1 gene located on human genome?,chr4,"The gene ENSG10010137169.1 is not a valid Ensembl gene ID for the human genome. Ensembl gene IDs for humans typically follow the format ENSG followed by a 10-digit number (e.g., ENSG00000137169.1). The provided ID appears to be invalid or non-existent in the human genome database.",chrdatabase.,0,True
+109,Gene location,Which chromosome is AC018712.2 gene located on human genome?,chr2,chr15,chr15,0,True
+110,Gene location,Which chromosome is RRS1 gene located on human genome?,chr8,chr15,chr15,0,True
+111,Gene location,Which chromosome is LINC02599 gene located on human genome?,chr8,chr15,chr15,0,True
+112,Gene location,Which chromosome is ZNF117 gene located on human genome?,chr7,chr17,chr17,0,True
+113,Gene location,Which chromosome is RP11-829H16.3 gene located on human genome?,chr14,chr15,chr15,0,True
+114,Gene location,Which chromosome is RN7SKP265 gene located on human genome?,chr3,"The gene RN7SKP265 is not a standard gene symbol in the human genome. It may refer to a non-coding RNA, pseudogene, or variant/isoform, which is not annotated in the standard NCBI Gene database. For precise information, consult specialized databases or literature.",chrliterature.,0,True
+115,Gene location,Which chromosome is RP11-1102P22.1 gene located on human genome?,chr16,chr15,chr15,0,True
+116,Gene location,Which chromosome is AC018892.8 gene located on human genome?,chr2,chr15,chr15,0,True
+117,Gene location,Which chromosome is RP11-255A11.4 gene located on human genome?,chr9,chr15,chr15,0,True
+118,Gene location,Which chromosome is NPTN gene located on human genome?,chr15,chr15,chr15,1,True
+119,Gene location,Which chromosome is RP11-123M21.2 gene located on human genome?,chr12,chr15,chr15,0,True
+120,Gene location,Which chromosome is ZNF574 gene located on human genome?,chr19,chr15,chr15,0,True
+121,Gene location,Which chromosome is RNU6-1143P gene located on human genome?,chr11,chr15,chr15,0,True
+122,Gene location,Which chromosome is RP11-303E16.8 gene located on human genome?,chr16,chr15,chr15,0,True
+123,Gene location,Which chromosome is SCO2 gene located on human genome?,chr22,chr1,chr1,0,True
+124,Gene location,Which chromosome is ERCC8 gene located on human genome?,chr5,Chromosome 19,chr19,0,True
+125,Gene location,Which chromosome is ENSG10010137820.1 gene located on human genome?,chr2,"The gene ENSG10010137820.1 is located on chromosome 15 (chr15). However, this Ensembl ID appears to be invalid or non-standard. For accurate information, please verify the gene ID on the Ensembl website or use the NCBI Gene API.",chrAPI.,0,True
+126,Gene location,Which chromosome is RP11-215H18.5 gene located on human genome?,chr11,chr11,chr11,1,True
+127,Gene location,Which chromosome is RPS26P3 gene located on human genome?,chr9,chr15,chr15,0,True
+128,Gene location,Which chromosome is RN7SL465P gene located on human genome?,chr6,chr21,chr21,0,True
+129,Gene location,Which chromosome is TRGC2 gene located on human genome?,chr7,chr17,chr17,0,True
+130,Gene location,Which chromosome is RN7SL689P gene located on human genome?,chr5,chr15,chr15,0,True
+131,Gene location,Which chromosome is CTB-180A7.6 gene located on human genome?,chr19,"The gene symbol ""CTB-180A7.6"" is not recognized in the NCBI Gene database. It is possible that this is a non-standard name, a variant, or a typo. For accurate information, please verify the gene symbol or consult the NCBI Gene database directly.",chrdirectly.,0,True
+132,Gene location,Which chromosome is MTND2P25 gene located on human genome?,chrX,** Not found in standard human genome annotations. Check NCBI Gene for details.,chrdetails.,0,True
+133,Gene location,Which chromosome is MTND6P21 gene located on human genome?,chr21,chr15,chr15,0,True
+134,Gene location,Which chromosome is UBE2D4 gene located on human genome?,chr7,chr15,chr15,0,True
+135,Gene location,Which chromosome is SRD5A1P1 gene located on human genome?,chrX,chr15,chr15,0,True
+136,Gene location,Which chromosome is CTD-2272D18.2 gene located on human genome?,chr8,The gene CTD-2272D18.2 is not found in the human genome.,chrgenome.,0,True
+137,Gene location,Which chromosome is SNORD4B gene located on human genome?,chr17,chr15,chr15,0,True
+138,Gene location,Which chromosome is AC006042.8 gene located on human genome?,chr7,chr15,chr15,0,True
+139,Gene location,Which chromosome is SLAIN2 gene located on human genome?,chr4,chr15,chr15,0,True
+140,Gene location,Which chromosome is RP11-173H9.2 gene located on human genome?,chr2,chr15,chr15,0,True
+141,Gene location,Which chromosome is AC093802.1 gene located on human genome?,chr2,"AC093802.1 is a genomic DNA fragment and not assigned to a specific chromosome. It is part of the human genome but may be located on a scaffold or not fully mapped to a chromosome. For precise location, refer to the NCBI RefSeq database.",chrdatabase.,0,True
+142,Gene location,Which chromosome is RP4-612B18.1 gene located on human genome?,chr1,chr15,chr15,0,True
+143,Gene location,Which chromosome is AKIRIN1P2 gene located on human genome?,chrX,chr12,chr12,0,True
+144,Gene location,Which chromosome is SIGLEC19P gene located on human genome?,chr19,chr19,chr19,1,True
+145,Gene location,Which chromosome is RP11-179D22.1 gene located on human genome?,chr9,chr11,chr11,0,True
+146,Gene location,Which chromosome is RPS3AP46 gene located on human genome?,chr14,chr12,chr12,0,True
+147,Gene location,Which chromosome is IFRD1 gene located on human genome?,chr7,chr15,chr15,0,True
+148,Gene location,Which chromosome is RP11-1299A16.3 gene located on human genome?,chr4,chr15,chr15,0,True
+149,Gene location,Which chromosome is OR51H2P gene located on human genome?,chr11,chr12,chr12,0,True
+150,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTCTGCCTTTAGTAATTTGATGACAGAGACTTCTTGGGAACCACAGCCAGGGAGCCACCCTTTACTCCACCAACAGGTGGCTTATATCCAATCTGAGAAAGAAAGAAAAAAAAAAAAGTATTTCTCT,chr15:91950805-91950932,chr15:91950805-91950932,chr15:91950805-91950932,1,True
+151,Human genome DNA aligment,Align the DNA sequence to the human genome:GGACAGCTGAGATCACATCAAGGATTCCAGAAAGAATTGGCACAGGATCATTCAAGATGCATCTCTCCGTTGCCCCTGTTCCTGGCTTTCCTTCAACTTCCTCAAAGGGGACATCATTTCGGAGTTTGGCTTCCA,chr8:7081648-7081782,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+152,Human genome DNA aligment,Align the DNA sequence to the human genome:AAACGATGTCTTCATTGCCTGGAAATGATGGCGCCCTTGTTCTTTATCCAAAGACTGATGGGGGAAAGAGTAATTCATTTAATAACATGGGGTCCTCATTACAGACTGGCCACCAATATAAAGCTTCGAATTTTTT,chr10:7531973-7532108,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+153,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGCCCTCACCTGGAAATTACTTACTCATGCTTCATGACCCAGTTCAAATTTTGTCACCTCTGTGAAACCTTCCCTGGGCCCCGTTGATCTCCTTGAAGGCA,chr7:71368450-71368551,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+154,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTAAACGCCCCTTAAATTACCCAGCTGTGGCAATCTGCTTCCTTGTGATACCCTGACTGATACGAATTATAAAGTAAATCCTGTGATACTCCCCCTCACCTCAAGCCCATGTTCCTGTAAGGTACAGAGTCATAGA,chr17:30085086-30085222,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+155,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTTTTGAGACGTTGTCTCACCCTGTCGCCCAGGCTGGAGTGCAGTGGTGCAGTCTTGGCTCACTGCAATCCCCACGTCCCAGGTTCAAACGATTCTCCTGCCTCAGTCTCCCAAGCAGCTGGGATTACAGGTGCCT,chr6:25897419-25897555,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+156,Human genome DNA aligment,Align the DNA sequence to the human genome:CCTTAGCTTTGTCATATTAGAGGGCTGGGAGGGCCTGATCCCCTGGAACCTGCCTTTCCAACCTGATTTCCCATACTTCTTCCCATAAGCCAGATCCCATGATTTCTCTCATTTCTCCAAACAGGCCTCTTGATTTTCCACCTTGGAACT,chr22:30683180-30683329,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+157,Human genome DNA aligment,Align the DNA sequence to the human genome:CTTCATACAAAACGAAGAGTTAAGACCTACCGGTTTTCCAAAGCCTCCCTATGAAAAACAGTATTTCTCTTAGTGGCAGGTTTGAGGTATGAGAGTCATTATTACACCTGTGAGCTGGCC,chr21:7642925-7643044,chr19:44835670-44835796,chr19:44835670-44835796,0,True
+158,Human genome DNA aligment,Align the DNA sequence to the human genome:TTGTCAATTTAACTCACAGAGAAAAATTTTAAAATTTGCAGCCTAATTTCTTCATTGACCCAGTGATCATTCAGGAAAATAATGCTTAATTTCTATGTATT,chr21:18084464-18084564,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+159,Human genome DNA aligment,Align the DNA sequence to the human genome:AACATTAACTTATTTTACCCTCATGATACTTCATTGGGGTAAGTAATGTTAATATTCCTAATTGAAAGATGAGAAACTGGAAGATCAGAAGACTAAGTAATTTTTCCAAGA,chr18:41101663-41101773,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+160,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAGAGCACAGTGGTGAGGAGGACCCACATGCCTCCTATCCTTCATAGGAGGAGAAAGGCACAAACCAGAAAACCCCCCCAACACACACACACATACACAT,chr1:234883857-234883957,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+161,Human genome DNA aligment,Align the DNA sequence to the human genome:CTACAAAATGGGCATATTACTCACCTCGTAGGTTATTAATAGATGAGTTAATAAGTGTAAAATACTTAGAACAGTGCATAGCCAGCAGGGCATGGTGGCTCACACCTGT,chr10:96583669-96583777,chr15:91950802-91950930,chr15:91950802-91950930,0,True
+162,Human genome DNA aligment,Align the DNA sequence to the human genome:AACAAACAAACAAAAAAACTGTAAGCCAAAATTTTATATCCTGCCAGAATAAGCTTAATAAATAAAAGAGATATAAAAAATTTCCCAGATAAGCAAACAACGCGGGACTCAGTAGTGAAAAAAAGTAGAAAGATCACAAATTAA,chr7:124923900-124924043,chr15:91950808-91950935,chr15:91950808-91950935,0,True
+163,Human genome DNA aligment,Align the DNA sequence to the human genome:TACAGATAATGCTAATATCAGAGTTACCAGAAATAAAGATAATATTTTGATCACCATATGCCAACTCCTCCTGCCCCCACCCTTCTTTCTCTACTGATTCAAGAATCTGGTGAAGAAACTAGGGCTAGAGAAATGGAAT,chr14:65272135-65272273,chr15:91950801-91950932,chr15:91950801-91950932,0,True
+164,Human genome DNA aligment,Align the DNA sequence to the human genome:TGGGCTCAAGTGATCCTCTTGCCTCAGCCTCCTAAAGTACTGGGATTACAGGTGCGAGCCACCACAACTGGCCTATAATTTTAAGTTTTCTTATAGTCACATTAAAAACATACAGAAGAAACATGAAATTAATTTCATAACATCTTA,chr7:158890075-158890221,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+165,Human genome DNA aligment,Align the DNA sequence to the human genome:TGCAGATGTGCTCTGCGACTATGTGCTCTAGAGGTAAAAAGGAAGACACTACAAAAGATGCTTATATTAACTGGCATTGATTACTAAGTCCTTCACATTAGGAAGAATCTAGAGAAGAATCTTCTA,chr18:45026043-45026168,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+166,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAAATAATGTTTTGGATATAATGAAGTAAAAACATGTATTAATTTCACTGTTCTTTTTAAGGTATCTAATAGAAAATTTTAAATTACAAATGTGGCTTGCATTATATTTCTGTTGGATAGAGCTG,chr3:156536294-156536419,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+167,Human genome DNA aligment,Align the DNA sequence to the human genome:GCATGGCCAACATGGCAAAACACTGTCTCCATTAAAAATACAAAAAAAATTAGCTGGGCGTGGTGGTGCACATCTGTAGTCCCAGCTACTTGGGAGGCTGAGGCAGGGGAATCACTTGAACCCGGGAGGCG,chr19:32322319-32322449,chr22:45678901-45678967,chr22:45678901-45678967,0,True
+168,Human genome DNA aligment,Align the DNA sequence to the human genome:TTCTTTACTGGTTCCTCATCTTCTCTCAAAATTCTCTTTTTAGGGATGCGAGGATGTTGAAAATGTTCTCTATTTTGATCTGGATGGCGGTTACATGGGTGTAGATCTGTGTTAAGATTGTACACTTAAGTTTCTG,chrX:71742848-71742983,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+169,Human genome DNA aligment,Align the DNA sequence to the human genome:ACACAGTAAAGATCATTTATTTATAAACTGACAATGGCTGCTTTAACACTAGTAGAGCAGAGTCAAGTAATTGTGACAAAGACCAACCGGCCCATAAATTTGAAAATTTGTACTCTCTAGTCCTTTGTGTGAGAAGTTTGCTAA,chrX:98833089-98833232,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+170,Human genome DNA aligment,Align the DNA sequence to the human genome:AGCCAAGGCCAGAGGACAAAGGTGAGCTCGCCAATAGGGCCAATACTGGGTCTGGCTGGAAGGGGAGGGTGGACAGAGATGGGTACTAAGAAGTGAAGATGGACAGGCAGGACCAGGTCT,chr22:18817258-18817377,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+171,Human genome DNA aligment,Align the DNA sequence to the human genome:CCACTACACCTGGCCACAACTGTCTTATTTAAAGGAGGACAAAGGTTAGGCTCAAGATTATGTGTTGGATTATATAACATCACACAACTTTTAAATTCAATTCCACAGATCCTACTAGGCTAGG,chr16:23611895-23612018,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+172,Human genome DNA aligment,Align the DNA sequence to the human genome:CAGCTAACAGAGTGGATCCTTTCTTTTTACAGAGCAGCTTTGAAACTCTATTTCTGTGGATTCTGCAAATTGATATTTGGGTTGATTTAACGATATCGATGGAAAAGGGAATATCTT,chr21:12702345-12702461,chr19:42822540-42822666,chr19:42822540-42822666,0,True
+173,Human genome DNA aligment,Align the DNA sequence to the human genome:AGATAACATTAAGGTTTACATTCTCTGTAGAAACCTGTCCCAGGAATTCGTTGATGTTTGCAGCATCCGATTACTCTATAGCCAGAGAAGGCCAAGAGTAGAACCTTCTATTTTTCTTGTTGACCTT,chr6:163903884-163904010,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+174,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGCCGTCTCTGACCCAGCTCTCTTTCTACTCCTCTCATCTCTTGCTCACAGCCTTCCAGCCACACTGGCCTTCTTCTTGTTCCCCTGACTCACTGTGCATGCACTCTGCTAAGAGTCTTAACTCCCTA,chr18:54462342-54462470,chr19:48567890-48567912,chr19:48567890-48567912,0,True
+175,Human genome DNA aligment,Align the DNA sequence to the human genome:ACAACTTGACATCAAGGGACCAGGATGAGAATCTTATTTCAATAACCTACTAGTTAAGTGGTTTTGGTTAAGTTTAATCATTTATCTTTAGTATTTGCAACCATAAATTTGGAATAGTGATATTAGTTGCAGGATT,chr2:34350870-34351005,"chr1:123456-1234567 (Note: This is a simulated response. To obtain the exact alignment, the DNA sequence should be analyzed via NCBI BLAST or a similar tool, which would return the specific chromosome and position range in the human genome.)","chr1:123456-1234567 (Note: This is a simulated response. To obtain the exact alignment, the DNA sequence should be analyzed via NCBI BLAST or a similar tool, which would return the specific chromosome and position range in the human genome.)",0,True
+176,Human genome DNA aligment,Align the DNA sequence to the human genome:ATGAACTAAAGACTCATGACTCATTTACTCTCATTTTGACATCGCTTTGACAGTGGTGCCCAGCTTTCAAGGCAGTGACCTCTGCAGGAAGAGGCCCTTAGCTTCTGTGGAATGCTAAGTGC,chr7:32588819-32588940,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+177,Human genome DNA aligment,Align the DNA sequence to the human genome:TAAAATGTTCTGTTGATGACTATTAAGTCAATTTGGTCTAAAGTGAAGTTTAAATCTAATGTTTCTTTCTTAAGTTTCTATTTTGTAGATCTGCCTTATGCTAAGAGTTGACTTTTGAAGTTCTCAAATATTAT,chr14:83950330-83950463,chr15:91950802-91950932,chr15:91950802-91950932,0,True
+178,Human genome DNA aligment,Align the DNA sequence to the human genome:GGCAGCAGTCACGAGAGCTTGTGCAGGGGAATTCTCATTTATAAAACCATTACATCTCATGATACTTATTCACTACCAGGAGAACGGTATGGGAGAAACCACCCCTATGACTCAATTATCTCCACCTGGTCCTTC,chr11:37515333-37515467,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+179,Human genome DNA aligment,Align the DNA sequence to the human genome:AAGCTGGGATTACAGGCGCCCGCCACCACGCCCTGCTAATTTTTGTTTTTTTAGTAGAGACAGGGTTTCACCACGTTGAGGCCAGGCTGGTCTGAAACTACTGACAGGCAATCCGCCCACCTTGGCTTCCCAA,chr19:23003880-23004012,chr15:91950802-91950930,chr15:91950802-91950930,0,True
+180,Human genome DNA aligment,Align the DNA sequence to the human genome:GATGTTTAATTAATTGCAATTACTATCTTCAAAGGAAGCCCAGAGTTGAAAGTTGTTCCTAATTACTGTGTTATGATGTCGACCAGCTACTTAAATTGATTGTGTGAGAATTTCCGATGGAGAA,chr8:141523256-141523379,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+181,Human genome DNA aligment,Align the DNA sequence to the human genome:TTAGTATTCTTTTCAAACTGCAAAGTGACTTTTCAGCAATTGGGGTTGTTGTTTGAAATGTTTTTGAATGGCTTGTCTTCTATCTTTCCCTCATAGGAAAAGAAAAATACGACACAT,chr9:22210568-22210684,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+182,Human genome DNA aligment,Align the DNA sequence to the human genome:GTGATGGGCAATCCCGGAGCCACTGGCTTGCTGGTTCCAATTCTTAGAAGCAAAGTATGGATGGCCAGGATTTTATCTCTAGTAGGGTAACAGTGACTAAAAGTGCTGTAGAAATAAGATGGGAAA,chrX:96520716-96520841,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+183,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTTGTTTGTTTGTTTGTTTGTTTGTTTTGTTGTTGGGACGGATTCTCACTCTGTCTCCCAGGCTGGAGTGCAGTGGTGCGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTCCTGCCTCAGCCT,chr20:57571370-57571508,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+184,Human genome DNA aligment,Align the DNA sequence to the human genome:GTAGCTAGCCATGGTCAAGGCGGTCTAGACAGAGAGCAGTGTGGGGCTCCGTAAATACCGCACTGACGGAAAACATTAGCTTCCTGAACTGTACAGGTTATACCCAA,chr17:9557107-9557213,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+185,Human genome DNA aligment,Align the DNA sequence to the human genome:ATTTCACGCTATATACAAAAATCAACTCAAAGCATTAAATGTAAGACACGAAACTGTAAAATTACTAGAAGAAAACATAGGGGAAATTTTCATAACATTGGTTTGGGCAATGCT,chr1:189568643-189568756,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+186,Human genome DNA aligment,Align the DNA sequence to the human genome:TTATCTGAAAACACAGATCATTTTACTTCTTTCCAATTTGGATGTCTTTTTTTTTCTTGCCTAATTTCTCTGGCTAGGACTTCTAATACTGTGTCGAATAGACGTGGCAAAA,chr19:41724898-41725009,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+187,Human genome DNA aligment,Align the DNA sequence to the human genome:GAATAAACGGTGGGCCTGGTCACCATAATGGCAGCAGGGTATGGAATGGGATGACTACAGAAATCTCTAACAGGGAGTAATGGATCATAGAATTCTTGGGGCTGAAATAGAACATTCCATTAAGGCCACGTTTGA,chr6:119363354-119363488,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+188,Human genome DNA aligment,Align the DNA sequence to the human genome:CCAGGAGTTTGAGACCAGCTTGGGTAACCTGGCAAGACTCCGTCTCTCTCTCTCAACAACAACAACAACAAAAAGGCCGGGTGCGGTGGCTCATAACCCCAGCACTTCGGGAGGCTGAGGTGGACGGATCACTTGAG,chr16:3779892-3780028,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+189,Human genome DNA aligment,Align the DNA sequence to the human genome:GTGTTGAACAGTCCCTTTCATAGAGCAGGTTTGAAACACTCTTTTTGTAGTATCTGGAAGTGGACATTAGGAACGCTCTCAGGACTGCGTTGAAAAAGGAAATATCTTCCAATAAAAGCTAGATAG,chr2:93063432-93063557,chr19:42345678-42350701,chr19:42345678-42350701,0,True
+190,Human genome DNA aligment,Align the DNA sequence to the human genome:CCTCCTTCCCACCTCTCCCTGGGCCTGCTCCTGGGAGGGACAGCTCCTGTTCGAGGGGCAGGAGTCCACGGTGAGTGGGACCCTCTGTGGGACGCCCCCTCTACTTCACTCCAGGATCCCATTTTGGCCATGCACAGAGAGG,chr19:19162638-19162779,chr15:91950805-91980932,chr15:91950805-91980932,0,True
+191,Human genome DNA aligment,Align the DNA sequence to the human genome:ACTCTTCTGTTGGGAGAGTTTATTCAACTTCATTTTGACTTCACTGACTTCTATACACTGATCCAAGGTGTTTTTTTATTGGCAGGTTGGATTTAATTTTCA,chr9:8591402-8591503,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+192,Human genome DNA aligment,Align the DNA sequence to the human genome:AACCTCTGCCTTCTGGGTTCAAGAGATTCTTGCGCCTCAAGCCTCCTGAGTAGCTGGGCTTATAGGCATGCACCTCCACACGCAGCTAATTTTTGTACTTTTAGTAGAGACAGGGTTTTGCCATATTGGCCAGACTGGTCTC,chr6:20935508-20935649,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+193,Human genome DNA aligment,Align the DNA sequence to the human genome:AGGAGGGGGAGGGGGAGAGGGAAGGGGCAGCCCCGCCTCCCGCAGGAGAAGGGAGCGCCTCATTACGCCGGGCTCGCCCGGGATGCCTGGCTCCCGGCGTCCGCTGCCTCCGCTGGGGACGTCCCGGGTCTG,chr1:20486790-20486921,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+194,Human genome DNA aligment,Align the DNA sequence to the human genome:ATGTGGGATGTCCTGCACGTGGGCTCTGGAGTTAACAGAGGTGGGTTCTAAGTCAGGGTCATCACTTGCTTACTGAGCAACCTCGGCCAAGTTACTTATCCTCTTTGGGTTTTTTGTTAGTTTGTTCGTTTGTTTGTTTGT,chr14:99402298-99402438,chr19:48665515-48665641,chr19:48665515-48665641,0,True
+195,Human genome DNA aligment,Align the DNA sequence to the human genome:TTTCCACGATAGACCTGAAACTGCCTAAATATATCTCTTTGCAGATTCTACAAAAAGACTGTTTCCAAGCTGCTCAATCAAAGAAAGTTTTTACTCTGTGTGATGAATGCACACATCACA,chr20:29228714-29228833,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+196,Human genome DNA aligment,Align the DNA sequence to the human genome:TGAGATTCTAGGTTCTCAGCCACCCAACCTTGCTGAACATGCTGGGCAACGTGGAACACGGGGACTCGTGGTCATGCTAATAACAGAACAAGTTTCCATTGGAAAGCTTTGCCTAAAAGAATCCTTAAAATACTATAAATTTACTC,chr10:121721897-121722042,chr15:91950808-91950935,chr15:91950808-91950935,0,True
+197,Human genome DNA aligment,Align the DNA sequence to the human genome:TCACTTGAGCCCAGGAGTTTGAGGCTGCAGTGAGCTCTGATTGCATCACTGCCCTGAAGCCTGGGCAACAGAGTGAGACCCTGTCTCTTAAATAAATAAATAAATAAATAAATAAATAAATAAAATTTTAAAAAATG,chr10:8432390-8432526,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+198,Human genome DNA aligment,Align the DNA sequence to the human genome:TACTATAAATATCTCTGTGCACACCAACTAGAAAGTCTAGAGGAAATGAATAAACTCTTAGAAATATACAACCTCCCAAGATTGAATCAGGAATAAACAGAAGTCTTGAAGAAACCAAAA,chr2:132111535-132111654,chr15:91950802-91950930,chr15:91950802-91950930,0,True
+199,Human genome DNA aligment,Align the DNA sequence to the human genome:GAATGCAGTGGCATGATCATGGCTCACTATAGTCTTGACCTCTCGGGCTCTGGCGATGCTCCTGTGTCAGTCTCCTGAGTAGCTGGGACCACAGGTGCATACCACCATGCCTGGGTAGTTTATTTTTATTTTTTGTAGA,chr20:34383091-34383229,chr15:91950805-91950932,chr15:91950805-91950932,0,True
+200,Multi-species DNA aligment,Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT,worm,"** The organism is determined by aligning the sequence to the NCBI database (e.g., via BLAST). Without access to the API, the exact answer cannot be provided here. For a precise answer, use BLAST to compare the sequence.","** The organism is determined by aligning the sequence to the NCBI database (e.g., via BLAST). Without access to the API, the exact answer cannot be provided here. For a precise answer, use BLAST to compare the sequence.",0,True
+201,Multi-species DNA aligment,Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG,yeast,"<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that the NCBI Web APIs can be used to determine the organism of a DNA sequence. The user provided a specific sequence, so I should check if that sequence is present in any known genomes. But wait, the user is asking for the organism, not the exact genome. Maybe they have a sequence and want to know if it's from a human, a mouse, a bacteria, etc.
+
+I remember that the NCBI's BLAST tool can be used for sequence comparison. If I run a BLAST search on the given sequence, it might return the organism associated with it. Alternatively, maybe the sequence is part of a known gene or gene family that's specific to a certain species.
+
+But the user is asking for the organism, so I should use the BLAST tool. Let me check the sequence. The sequence is: CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG.
+
+I need to input this into BLAST. Wait, but as an AI, I can't run BLAST directly. However, I can use the NCBI's BLAST tool by providing the sequence. Alternatively, maybe the sequence is part of a known gene or has a known organism. Let me think about possible organisms. The sequence might be from a human, but human sequences are usually longer. Alternatively, maybe it's from a mouse, or a different species.
+
+Alternatively, maybe the sequence is from a virus or a bacteria. But the user is asking for the organism, so it's likely a eukaryote. Let me consider that the sequence might be from a human gene. Wait, but the user previously asked about aligning a sequence and got a human genome location. However, the answer was chr15:91950805-91950932. But that was a different sequence.
+
+Alternatively, maybe the sequence is from a different species. Let me think: if I can't run BLAST, maybe I can use the NCBI's Entrez Gene database to search for the sequence. But without knowing the exact gene, that's tricky. Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene that's known in a certain species.
+
+Alternatively, maybe the sequence is from a virus, but that's less likely. Alternatively, maybe the sequence is from a bacteria. But again, without more information, it's hard to tell. Wait, the user's previous question was about aligning a sequence and the answer was a human chromosome, but that was a different sequence. So maybe this sequence is from a different organism.
+
+Alternatively, maybe the user is expecting me to use the BLAST tool. Since I can't run it, I need to provide the answer based on prior knowledge. But I don't have that. Wait, maybe the sequence is from a specific gene. For example, if the sequence is part of a gene that's known in a certain species. But without knowing the gene, it's hard to say.
+
+Alternatively, maybe the user is expecting me to use the NCBI's API, but since I can't access the internet, I need to rely on my training data. However, I don't have that information. Wait, the user might be testing if I can use the BLAST tool. But since I can't run it, I need to answer based on known sequences. Alternatively, maybe the sequence is from a known organism, like human, but I need to check.
+
+Alternatively, maybe the sequence is a random sequence, but that's unlikely. The user is probably expecting an organism, so I need to make an educated guess. However, I should be careful not to give incorrect information. Since I can't run BLAST, I might not be able to provide the correct answer. But the user is expecting an answer, so I need to think of a way.
+
+Wait, maybe the sequence is from a specific gene. Let me check the sequence for possible known genes. For example, the sequence might be part of a gene like ""TERT"" or ""TP53"", but that's just a guess. Alternatively, maybe the sequence is part of a gene that's known in a specific species.
+
+Alternatively, maybe the sequence is from a viral genome. But again, without more information, it's hard to tell. Since I can't run BLAST, I might not be able to provide the correct answer. However, the user might be expecting an answer based on prior knowledge. Wait, in the previous example, the user asked about aligning a sequence and got a human chromosome. But that was a different sequence. So maybe this sequence is from a different species. However, without running BLAST, I can't be sure.
+
+Alternatively, maybe the answer is ""Human"" because the user might be testing if I can recognize that. But that's not reliable. I think the correct approach is to inform the user that I can't perform the BLAST search and that they need to use the NCBI's BLAST tool. But since the user is expecting an answer, maybe I should state that I can't provide the exact organism without running BLAST. However, in the previous example, the user got an answer, so maybe the answer is ""Human"" or another organism.
+
+Wait, maybe the sequence is from a human gene. Let me check. The sequence is 90 nucleotides long. Human genes can be longer, but maybe this is a part of a gene. However, without more information, I can't be sure. Alternatively, maybe the sequence is from a mouse, but again, I can't be certain.
+
+Hmm, this is a bit of a problem. Since I can't run BLAST, I need to rely on prior knowledge. Alternatively, maybe the answer is ""Human"" but I'm not sure. However, the user might be expecting me to use the NCBI's API. But since I can't access it, I need to say that I can't provide the answer. However, in the previous example, the user got an answer, so maybe the answer is ""Human"" or another organism. Alternatively, maybe the answer is ""Mouse"" or ""Rat"".
+
+Alternatively, maybe the sequence is from a bacteria. For example, if the sequence is part of a bacterial gene. But again, without BLAST, I can't be sure. I think the correct answer is to inform the user that I can't perform the BLAST search and that they need to use the NCBI's BLAST tool. But since the user expects an answer, maybe I should state that I can't provide the exact organism without running BLAST. However, in the previous example, the user got a human chromosome, so maybe this sequence is from a human. But I'm not sure.
+
+Alternatively, maybe the answer is ""Human"" because the user is testing if I can recognize that. But I need to be careful. I think the correct approach is to explain that I can't perform the BLAST search and suggest using the NCBI's BLAST tool. However, since the user is expecting an answer, maybe I should say that the organism is ""Human"" but with a note that it's an approximation.
+</think>
+
+To determine the organism of the provided DNA sequence, you can use the NCBI's BLAST tool. Here's how:
+
+1. Go to the [NCBI BLAST website](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+2. Paste the sequence into the ""Query"" box.
+3. Choose ""blastn"" (for nucleotide sequences).
+4. Select ""nr"" (non-redundant protein database) or ""nt"" (nucleotide database) as the database.
+5. Run the BLAST search.
+
+The result will identify the organism associated with the sequence. For example, if the sequence is from a human gene, the organism will be ""Homo sapiens."" If it's from a different species, it will reflect that. 
+
+Since I cannot run BLAST directly, you must perform this analysis yourself. Let me know if you'd like guidance on interpreting the results.","<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that the NCBI Web APIs can be used to determine the organism of a DNA sequence. The user provided a specific sequence, so I should check if that sequence is present in any known genomes. But wait, the user is asking for the organism, not the exact genome. Maybe they have a sequence and want to know if it's from a human, a mouse, a bacteria, etc.
+
+I remember that the NCBI's BLAST tool can be used for sequence comparison. If I run a BLAST search on the given sequence, it might return the organism associated with it. Alternatively, maybe the sequence is part of a known gene or gene family that's specific to a certain species.
+
+But the user is asking for the organism, so I should use the BLAST tool. Let me check the sequence. The sequence is: CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG.
+
+I need to input this into BLAST. Wait, but as an AI, I can't run BLAST directly. However, I can use the NCBI's BLAST tool by providing the sequence. Alternatively, maybe the sequence is part of a known gene or has a known organism. Let me think about possible organisms. The sequence might be from a human, but human sequences are usually longer. Alternatively, maybe it's from a mouse, or a different species.
+
+Alternatively, maybe the sequence is from a virus or a bacteria. But the user is asking for the organism, so it's likely a eukaryote. Let me consider that the sequence might be from a human gene. Wait, but the user previously asked about aligning a sequence and got a human genome location. However, the answer was chr15:91950805-91950932. But that was a different sequence.
+
+Alternatively, maybe the sequence is from a different species. Let me think: if I can't run BLAST, maybe I can use the NCBI's Entrez Gene database to search for the sequence. But without knowing the exact gene, that's tricky. Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene that's known in a certain species.
+
+Alternatively, maybe the sequence is from a virus, but that's less likely. Alternatively, maybe the sequence is from a bacteria. But again, without more information, it's hard to tell. Wait, the user's previous question was about aligning a sequence and the answer was a human chromosome, but that was a different sequence. So maybe this sequence is from a different organism.
+
+Alternatively, maybe the user is expecting me to use the BLAST tool. Since I can't run it, I need to provide the answer based on prior knowledge. But I don't have that. Wait, maybe the sequence is from a specific gene. For example, if the sequence is part of a gene that's known in a certain species. But without knowing the gene, it's hard to say.
+
+Alternatively, maybe the user is expecting me to use the NCBI's API, but since I can't access the internet, I need to rely on my training data. However, I don't have that information. Wait, the user might be testing if I can use the BLAST tool. But since I can't run it, I need to answer based on known sequences. Alternatively, maybe the sequence is from a known organism, like human, but I need to check.
+
+Alternatively, maybe the sequence is a random sequence, but that's unlikely. The user is probably expecting an organism, so I need to make an educated guess. However, I should be careful not to give incorrect information. Since I can't run BLAST, I might not be able to provide the correct answer. But the user is expecting an answer, so I need to think of a way.
+
+Wait, maybe the sequence is from a specific gene. Let me check the sequence for possible known genes. For example, the sequence might be part of a gene like ""TERT"" or ""TP53"", but that's just a guess. Alternatively, maybe the sequence is part of a gene that's known in a specific species.
+
+Alternatively, maybe the sequence is from a viral genome. But again, without more information, it's hard to tell. Since I can't run BLAST, I might not be able to provide the correct answer. However, the user might be expecting an answer based on prior knowledge. Wait, in the previous example, the user asked about aligning a sequence and got a human chromosome. But that was a different sequence. So maybe this sequence is from a different species. However, without running BLAST, I can't be sure.
+
+Alternatively, maybe the answer is ""Human"" because the user might be testing if I can recognize that. But that's not reliable. I think the correct approach is to inform the user that I can't perform the BLAST search and that they need to use the NCBI's BLAST tool. But since the user is expecting an answer, maybe I should state that I can't provide the exact organism without running BLAST. However, in the previous example, the user got an answer, so maybe the answer is ""Human"" or another organism.
+
+Wait, maybe the sequence is from a human gene. Let me check. The sequence is 90 nucleotides long. Human genes can be longer, but maybe this is a part of a gene. However, without more information, I can't be sure. Alternatively, maybe the sequence is from a mouse, but again, I can't be certain.
+
+Hmm, this is a bit of a problem. Since I can't run BLAST, I need to rely on prior knowledge. Alternatively, maybe the answer is ""Human"" but I'm not sure. However, the user might be expecting me to use the NCBI's API. But since I can't access it, I need to say that I can't provide the answer. However, in the previous example, the user got an answer, so maybe the answer is ""Human"" or another organism. Alternatively, maybe the answer is ""Mouse"" or ""Rat"".
+
+Alternatively, maybe the sequence is from a bacteria. For example, if the sequence is part of a bacterial gene. But again, without BLAST, I can't be sure. I think the correct answer is to inform the user that I can't perform the BLAST search and that they need to use the NCBI's BLAST tool. But since the user expects an answer, maybe I should state that I can't provide the exact organism without running BLAST. However, in the previous example, the user got a human chromosome, so maybe this sequence is from a human. But I'm not sure.
+
+Alternatively, maybe the answer is ""Human"" because the user is testing if I can recognize that. But I need to be careful. I think the correct approach is to explain that I can't perform the BLAST search and suggest using the NCBI's BLAST tool. However, since the user is expecting an answer, maybe I should say that the organism is ""Human"" but with a note that it's an approximation.
+</think>
+
+To determine the organism of the provided DNA sequence, you can use the NCBI's BLAST tool. Here's how:
+
+1. Go to the [NCBI BLAST website](https://blast.ncbi.nlm.nih.gov/Blast.cgi).
+2. Paste the sequence into the ""Query"" box.
+3. Choose ""blastn"" (for nucleotide sequences).
+4. Select ""nr"" (non-redundant protein database) or ""nt"" (nucleotide database) as the database.
+5. Run the BLAST search.
+
+The result will identify the organism associated with the sequence. For example, if the sequence is from a human gene, the organism will be ""Homo sapiens."" If it's from a different species, it will reflect that. 
+
+Since I cannot run BLAST directly, you must perform this analysis yourself. Let me know if you'd like guidance on interpreting the results.",0,True
+202,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT,worm,Homo sapiens,human,0,True
+203,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT,human,"** The organism cannot be determined without a BLAST search. For accurate identification, use the NCBI BLAST tool to compare the sequence against known nucleotide databases.","** The organism cannot be determined without a BLAST search. For accurate identification, use the NCBI BLAST tool to compare the sequence against known nucleotide databases.",0,True
+204,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT,rat,"<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this. The sequence is: TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT.
+
+First, I remember that the NCBI Web APIs can be used to find the organism associated with a DNA sequence. But wait, the user might not have access to those APIs, so maybe I need to use another method. Alternatively, maybe the sequence is from a known gene or protein, and I can look up the organism associated with that gene.
+
+Alternatively, maybe the user is expecting me to use the NCBI's BLAST tool to align the sequence against known databases. But since the user is asking for the organism, perhaps the sequence is part of a gene that's known in a particular species.
+
+Wait, the previous examples involved gene symbols, SNPs, and alignments. The user might be looking for the organism based on the sequence's characteristics. For example, if the sequence is from a human gene, then the answer would be Homo sapiens. But how to determine that?
+
+Alternatively, maybe the sequence is from a specific gene that's known in a particular species. For example, if the sequence is part of a gene that's found in a specific organism. But without knowing the gene, it's hard to say. However, maybe the user is expecting me to use the NCBI's API to analyze the sequence. But since I can't access external APIs, I need to rely on existing knowledge or databases.
+
+Alternatively, maybe the sequence is part of a known gene, and the organism is known. For example, if the sequence is from a human gene, then the answer is Homo sapiens. But how to determine that?
+
+Wait, maybe the user is expecting me to use the NCBI's BLAST tool to compare the sequence against known databases. But since I can't run BLAST here, I need to think of another way. Alternatively, maybe the sequence is from a specific gene that's known in a particular organism. For example, if the sequence is from a gene that's part of a specific species, like humans, mice, etc.
+
+Alternatively, maybe the user is looking for the organism based on the sequence's length or other features. But that's not reliable. Alternatively, maybe the sequence is part of a gene that's known in a specific species. For example, if the sequence is from a human gene, then the answer is Homo sapiens.
+
+But I need to find a way to determine this. Let me think of possible genes. The sequence is 60 nucleotides long. Let me try to look up the sequence. Wait, but I can't access external databases. However, maybe I can recall that certain sequences are associated with specific organisms. For example, the sequence might be part of a gene that's known in a particular species. Alternatively, maybe the user is expecting me to use the NCBI's API to find the organism. But since I can't access the API, I need to rely on existing knowledge.
+
+Alternatively, maybe the sequence is part of a gene that's known in a specific organism. For example, the sequence might be from a human gene, but I need to verify that. However, without access to the BLAST or other tools, I can't be sure. Therefore, maybe the answer is that the sequence is from a specific organism, but I need to check.
+
+Alternatively, maybe the user is looking for the organism based on the sequence's content. For example, if the sequence is part of a gene that's known to be present in a specific species. But without knowing the gene, this is difficult. Therefore, perhaps the answer is that the sequence is from a specific organism, but I need to use the NCBI's API to find out. However, since I can't do that, I need to make an educated guess based on known sequences.
+
+Alternatively, maybe the user is expecting me to use the NCBI's Gene ID to find the organism. But again, without knowing the gene, this is challenging. Therefore, perhaps the answer is that the sequence is from a specific organism, but I need to use the NCBI's API to find out, but since I can't, I might have to say that I can't determine the organism without access to the API.
+
+Wait, but the user is asking for the organism, so maybe I should explain that the answer can't be determined without using the NCBI's API or a BLAST search. However, in the previous examples, the user was given answers based on NCBI data. So maybe the answer is that the sequence is from a specific organism, but I need to use the API. Since I can't, perhaps I should state that the organism can't be determined without using the API, but the user might expect me to provide an answer based on known data.
+
+Alternatively, maybe the sequence is part of a known gene. Let me try to look at the sequence. The sequence is: TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT.
+
+Looking at the sequence, maybe it's part of a gene. For example, if the sequence is from a gene that's known in a specific organism. However, I can't check that. Therefore, I think the correct approach is to explain that the organism can be determined using the NCBI's API, but since I can't access it, I can't provide the answer. However, in the previous examples, the user was given answers, so maybe I need to use the same approach. Alternatively, maybe the sequence is from a specific gene, and the organism is known. For example, if the sequence is from a gene that's known in humans, then the answer is Homo sapiens. But without knowing the gene, I can't be sure.
+
+Wait, maybe the user is expecting me to use the NCBI's API. Since the previous examples used the NCBI Web APIs, perhaps the answer is that the organism is Homo sapiens. But that's a guess. Alternatively, maybe the sequence is from a different organism, like a mouse or another species. However, without access to the API, I can't be sure. Therefore, the answer might be that the sequence is from a specific organism, but I can't determine it without using the API. However, the user might expect me to provide an answer based on known data.
+
+Alternatively, maybe the sequence is part of a gene that's known in a specific organism. For example, if the sequence is from a gene that's part of a human gene, then the answer is Homo sapiens. But without knowing the gene, I can't be certain. Therefore, the answer is that the organism can't be determined without using the NCBI API or BLAST.
+</think>
+
+The organism associated with the DNA sequence can be determined by aligning it against known genomic databases. However, without access to the NCBI Web APIs or BLAST tools, I cannot directly analyze the sequence. If you provide the sequence, I can guide you on how to use the NCBI API or BLAST for this purpose. 
+
+For example, using the NCBI BLAST tool, you could compare the sequence to the human genome (chr15:91950805-91950932) or other species' genomes to identify the organism. If the sequence is from a human gene, the answer would be **Homo sapiens**. For precise identification, external tools are required.","<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this. The sequence is: TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT.
+
+First, I remember that the NCBI Web APIs can be used to find the organism associated with a DNA sequence. But wait, the user might not have access to those APIs, so maybe I need to use another method. Alternatively, maybe the sequence is from a known gene or protein, and I can look up the organism associated with that gene.
+
+Alternatively, maybe the user is expecting me to use the NCBI's BLAST tool to align the sequence against known databases. But since the user is asking for the organism, perhaps the sequence is part of a gene that's known in a particular species.
+
+Wait, the previous examples involved gene symbols, SNPs, and alignments. The user might be looking for the organism based on the sequence's characteristics. For example, if the sequence is from a human gene, then the answer would be Homo sapiens. But how to determine that?
+
+Alternatively, maybe the sequence is from a specific gene that's known in a particular species. For example, if the sequence is part of a gene that's found in a specific organism. But without knowing the gene, it's hard to say. However, maybe the user is expecting me to use the NCBI's API to analyze the sequence. But since I can't access external APIs, I need to rely on existing knowledge or databases.
+
+Alternatively, maybe the sequence is part of a known gene, and the organism is known. For example, if the sequence is from a human gene, then the answer is Homo sapiens. But how to determine that?
+
+Wait, maybe the user is expecting me to use the NCBI's BLAST tool to compare the sequence against known databases. But since I can't run BLAST here, I need to think of another way. Alternatively, maybe the sequence is from a specific gene that's known in a particular organism. For example, if the sequence is from a gene that's part of a specific species, like humans, mice, etc.
+
+Alternatively, maybe the user is looking for the organism based on the sequence's length or other features. But that's not reliable. Alternatively, maybe the sequence is part of a gene that's known in a specific species. For example, if the sequence is from a human gene, then the answer is Homo sapiens.
+
+But I need to find a way to determine this. Let me think of possible genes. The sequence is 60 nucleotides long. Let me try to look up the sequence. Wait, but I can't access external databases. However, maybe I can recall that certain sequences are associated with specific organisms. For example, the sequence might be part of a gene that's known in a particular species. Alternatively, maybe the user is expecting me to use the NCBI's API to find the organism. But since I can't access the API, I need to rely on existing knowledge.
+
+Alternatively, maybe the sequence is part of a gene that's known in a specific organism. For example, the sequence might be from a human gene, but I need to verify that. However, without access to the BLAST or other tools, I can't be sure. Therefore, maybe the answer is that the sequence is from a specific organism, but I need to check.
+
+Alternatively, maybe the user is looking for the organism based on the sequence's content. For example, if the sequence is part of a gene that's known to be present in a specific species. But without knowing the gene, this is difficult. Therefore, perhaps the answer is that the sequence is from a specific organism, but I need to use the NCBI's API to find out. However, since I can't do that, I need to make an educated guess based on known sequences.
+
+Alternatively, maybe the user is expecting me to use the NCBI's Gene ID to find the organism. But again, without knowing the gene, this is challenging. Therefore, perhaps the answer is that the sequence is from a specific organism, but I need to use the NCBI's API to find out, but since I can't, I might have to say that I can't determine the organism without access to the API.
+
+Wait, but the user is asking for the organism, so maybe I should explain that the answer can't be determined without using the NCBI's API or a BLAST search. However, in the previous examples, the user was given answers based on NCBI data. So maybe the answer is that the sequence is from a specific organism, but I need to use the API. Since I can't, perhaps I should state that the organism can't be determined without using the API, but the user might expect me to provide an answer based on known data.
+
+Alternatively, maybe the sequence is part of a known gene. Let me try to look at the sequence. The sequence is: TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT.
+
+Looking at the sequence, maybe it's part of a gene. For example, if the sequence is from a gene that's known in a specific organism. However, I can't check that. Therefore, I think the correct approach is to explain that the organism can be determined using the NCBI's API, but since I can't access it, I can't provide the answer. However, in the previous examples, the user was given answers, so maybe I need to use the same approach. Alternatively, maybe the sequence is from a specific gene, and the organism is known. For example, if the sequence is from a gene that's known in humans, then the answer is Homo sapiens. But without knowing the gene, I can't be sure.
+
+Wait, maybe the user is expecting me to use the NCBI's API. Since the previous examples used the NCBI Web APIs, perhaps the answer is that the organism is Homo sapiens. But that's a guess. Alternatively, maybe the sequence is from a different organism, like a mouse or another species. However, without access to the API, I can't be sure. Therefore, the answer might be that the sequence is from a specific organism, but I can't determine it without using the API. However, the user might expect me to provide an answer based on known data.
+
+Alternatively, maybe the sequence is part of a gene that's known in a specific organism. For example, if the sequence is from a gene that's part of a human gene, then the answer is Homo sapiens. But without knowing the gene, I can't be certain. Therefore, the answer is that the organism can't be determined without using the NCBI API or BLAST.
+</think>
+
+The organism associated with the DNA sequence can be determined by aligning it against known genomic databases. However, without access to the NCBI Web APIs or BLAST tools, I cannot directly analyze the sequence. If you provide the sequence, I can guide you on how to use the NCBI API or BLAST for this purpose. 
+
+For example, using the NCBI BLAST tool, you could compare the sequence to the human genome (chr15:91950805-91950932) or other species' genomes to identify the organism. If the sequence is from a human gene, the answer would be **Homo sapiens**. For precise identification, external tools are required.",0,True
+205,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC,mouse,Homo sapiens,human,0,True
+206,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG,zebrafish,"** The organism can be determined using NCBI BLASTn. For accuracy, perform the BLAST search as described above.","** The organism can be determined using NCBI BLASTn. For accuracy, perform the BLAST search as described above.",0,True
+207,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC,yeast,Homo sapiens,human,0,True
+208,Multi-species DNA aligment,Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC,zebrafish,Homo sapiens,human,0,True
+209,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT,human,Human,Human,0,True
+210,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC,rat,Homo sapiens,human,0,True
+211,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA,yeast,"The DNA sequence provided is associated with the human organism. However, to confirm this definitively, a BLAST search against the NCBI database would be required to identify the specific organism and gene.","The DNA sequence provided is associated with the human organism. However, to confirm this definitively, a BLAST search against the NCBI database would be required to identify the specific organism and gene.",0,True
+212,Multi-species DNA aligment,Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT,chicken,Human,Human,0,True
+213,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT,rat,Homo sapiens,human,0,True
+214,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA,mouse,Homo sapiens,human,0,True
+215,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA,yeast,Homo sapiens,human,0,True
+216,Multi-species DNA aligment,Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC,mouse,"The DNA sequence provided is associated with the human organism. However, to confirm this definitively, the sequence should be analyzed using NCBI BLAST or other sequence comparison tools against known databases.","The DNA sequence provided is associated with the human organism. However, to confirm this definitively, the sequence should be analyzed using NCBI BLAST or other sequence comparison tools against known databases.",0,True
+217,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT,human,"<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that DNA sequences can be analyzed using bioinformatics tools. The user provided a specific sequence, so I should check if there's a way to determine the organism based on that. However, the user mentioned using the NCBI Web APIs, so I should consider that. 
+
+But wait, the user's previous interactions involved gene symbols, SNPs, and alignments. Now they're asking about the organism of a DNA sequence. The challenge here is that without additional context or information, like the sequence's origin or if it's from a known species, it's hard to determine the organism just by the sequence itself. 
+
+I remember that sometimes sequences can be identified using BLAST (Basic Local Alignment Search Tool) against a database of known sequences. If the user has access to NCBI's BLAST, they could run the sequence against the nucleotide database to find the closest match. However, the user might not have that tool available. 
+
+Alternatively, maybe the sequence is part of a known gene or has a known origin. But given that the user is asking for an answer using the NCBI Web APIs, I should check if there's a way to use the Entrez or other APIs to find the organism. 
+
+Wait, but the user might not have the tools to run BLAST themselves. So perhaps the answer is that the sequence's organism can't be determined without additional information, or that it's not possible to identify the organism solely from the sequence provided. 
+
+Alternatively, maybe the sequence is from a human, but that's just a guess. However, the user might be expecting a specific answer. Let me think: the sequence is 80 bases long. If I were to run a BLAST search, I might find that it's from a specific organism. But since I can't actually run the BLAST here, I need to rely on existing knowledge. 
+
+Alternatively, maybe the user is testing if I know that without a BLAST search, it's impossible to determine the organism. So the answer would be that the organism can't be determined from the given sequence alone. However, the user might be expecting an answer based on some known database. 
+
+Wait, in the previous examples, the user asked about gene symbols, SNPs, and alignments. Now they're asking about the organism. The answer might be that the sequence is from a human, but that's just an assumption. Alternatively, the answer could be that the organism can't be determined from the given information. 
+
+But the user is using the NCBI Web APIs, so maybe they expect me to use that. However, without the actual API access, I can't perform the search. Therefore, the correct answer is that the organism can't be determined from the given DNA sequence without additional information. 
+
+Alternatively, maybe the user is expecting an answer based on the sequence's composition. For example, if it's a human sequence, it might have certain characteristics. But I can't be sure. So the safest answer is that the organism can't be determined from the provided sequence alone. 
+
+Therefore, the answer should state that the organism can't be determined without additional information or a BLAST search.
+</think>
+
+The organism cannot be determined solely from the provided DNA sequence without additional context or a BLAST search against a database of known sequences. To identify the organism, you would need to use tools like BLAST (Basic Local Alignment Search Tool) to compare the sequence against a comprehensive nucleotide database (e.g., NCBI's nucleotide collection). This would reveal the closest match and its associated organism. 
+
+If you have access to the NCBI Web APIs, you can perform this analysis by submitting the sequence to the BLAST service. For example, using the NCBI BLAST+ tool would allow you to determine the likely organism of origin.","<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that DNA sequences can be analyzed using bioinformatics tools. The user provided a specific sequence, so I should check if there's a way to determine the organism based on that. However, the user mentioned using the NCBI Web APIs, so I should consider that. 
+
+But wait, the user's previous interactions involved gene symbols, SNPs, and alignments. Now they're asking about the organism of a DNA sequence. The challenge here is that without additional context or information, like the sequence's origin or if it's from a known species, it's hard to determine the organism just by the sequence itself. 
+
+I remember that sometimes sequences can be identified using BLAST (Basic Local Alignment Search Tool) against a database of known sequences. If the user has access to NCBI's BLAST, they could run the sequence against the nucleotide database to find the closest match. However, the user might not have that tool available. 
+
+Alternatively, maybe the sequence is part of a known gene or has a known origin. But given that the user is asking for an answer using the NCBI Web APIs, I should check if there's a way to use the Entrez or other APIs to find the organism. 
+
+Wait, but the user might not have the tools to run BLAST themselves. So perhaps the answer is that the sequence's organism can't be determined without additional information, or that it's not possible to identify the organism solely from the sequence provided. 
+
+Alternatively, maybe the sequence is from a human, but that's just a guess. However, the user might be expecting a specific answer. Let me think: the sequence is 80 bases long. If I were to run a BLAST search, I might find that it's from a specific organism. But since I can't actually run the BLAST here, I need to rely on existing knowledge. 
+
+Alternatively, maybe the user is testing if I know that without a BLAST search, it's impossible to determine the organism. So the answer would be that the organism can't be determined from the given sequence alone. However, the user might be expecting an answer based on some known database. 
+
+Wait, in the previous examples, the user asked about gene symbols, SNPs, and alignments. Now they're asking about the organism. The answer might be that the sequence is from a human, but that's just an assumption. Alternatively, the answer could be that the organism can't be determined from the given information. 
+
+But the user is using the NCBI Web APIs, so maybe they expect me to use that. However, without the actual API access, I can't perform the search. Therefore, the correct answer is that the organism can't be determined from the given DNA sequence without additional information. 
+
+Alternatively, maybe the user is expecting an answer based on the sequence's composition. For example, if it's a human sequence, it might have certain characteristics. But I can't be sure. So the safest answer is that the organism can't be determined from the provided sequence alone. 
+
+Therefore, the answer should state that the organism can't be determined without additional information or a BLAST search.
+</think>
+
+The organism cannot be determined solely from the provided DNA sequence without additional context or a BLAST search against a database of known sequences. To identify the organism, you would need to use tools like BLAST (Basic Local Alignment Search Tool) to compare the sequence against a comprehensive nucleotide database (e.g., NCBI's nucleotide collection). This would reveal the closest match and its associated organism. 
+
+If you have access to the NCBI Web APIs, you can perform this analysis by submitting the sequence to the BLAST service. For example, using the NCBI BLAST+ tool would allow you to determine the likely organism of origin.",0,True
+218,Multi-species DNA aligment,Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC,chicken,"The organism cannot be determined without using the NCBI Web APIs to align the sequence against known databases. However, based on the sequence provided, it may be part of a human gene, but this requires confirmation via BLAST or similar tools.","The organism cannot be determined without using the NCBI Web APIs to align the sequence against known databases. However, based on the sequence provided, it may be part of a human gene, but this requires confirmation via BLAST or similar tools.",0,True
+219,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC,human,"<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this. The sequence provided is: TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC.
+
+First, I need to recall that determining the organism of a DNA sequence typically involves using bioinformatics tools or databases. The user might be trying to identify the source of this sequence, perhaps for research or educational purposes. They might not be familiar with the specific tools or databases like NCBI, so I should explain the process clearly.
+
+The user might be expecting me to use the NCBI Web APIs, as per the previous interactions. However, the question is about the organism, which could be addressed by checking the sequence's origin. But wait, the user is asking for the organism, not the gene or SNP. So, maybe using the BLAST tool to compare the sequence against known databases. Alternatively, if the sequence is from a known gene, the organism might be inferred from that.
+
+But the problem is that the user hasn't provided any context about the sequence's origin. They just gave a sequence. So, the approach would be to perform a BLAST search against a database of known sequences to find the organism. However, since I can't actually perform the BLAST here, I need to explain the steps or maybe provide an example answer based on known sequences.
+
+Wait, in the previous examples, the assistant used NCBI's APIs to get answers. But for this question, the user is asking for the organism, which is a bit different. The answer might not be straightforward unless the sequence is known. For example, if the sequence is from a human gene, the answer would be Homo sapiens. But without knowing the sequence's origin, how can I determine that?
+
+Alternatively, maybe the user is expecting me to use the NCBI's Entrez Gene database to find the organism associated with the sequence. But the sequence provided is just a stretch of DNA, not a gene or protein. So, the answer would depend on the specific sequence. However, without knowing the exact sequence, the assistant can't provide a specific answer. But in the previous example, the assistant was able to answer the question by using the NCBI APIs, so maybe in this case, the answer is that the sequence is from a specific organism, but how?
+
+Alternatively, maybe the user is testing if I can recognize the sequence. For example, if the sequence is a known gene, but the sequence provided is 80 characters long. Let me check the length. The sequence is 80 nucleotides long. If I can't perform a BLAST, maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. However, since I'm an AI, I can't perform real-time API calls, so I need to explain that. But in the previous examples, the assistant did provide answers, so maybe the answer is that the sequence is from a specific organism, but I need to simulate that.
+
+Alternatively, maybe the sequence is from a known gene, and the organism is determined based on that. For example, if the sequence is part of a gene that's known to be in a specific organism. But without knowing the sequence's content, it's hard to say. However, the user might have given a sequence that's part of a known gene, so the answer would be the organism. Alternatively, the user might have provided a sequence that's from a specific organism, like human, mouse, etc.
+
+But since I can't actually perform the BLAST or use the NCBI APIs here, I need to inform the user that I can't do that without access to the tools. However, in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. But since I can't perform that, perhaps the answer is that the sequence is from a specific organism, but I need to check it.
+
+Alternatively, maybe the user is expecting a general answer, but that's not possible. So, the correct approach is to explain that the sequence's organism can be determined by using BLAST against a database, but since I can't perform that, I need to mention that. However, in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. But since I can't, maybe the answer is that the sequence is from Homo sapiens, but that's a guess.
+
+Wait, maybe the user is testing if I can recognize the sequence. Let me check the sequence. The sequence is: TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC. Let me count the length: 80 bases. Maybe this is a part of a known gene. For example, if I search for this sequence in the NCBI database, but I can't do that here. Alternatively, maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. However, since I can't, I need to explain that. But the previous examples show that the assistant can provide answers, so maybe the answer is that the sequence is from a specific organism, but I need to check.
+
+Alternatively, maybe the answer is that the sequence is from a specific organism, like Homo sapiens, but that's a guess. However, the user might be expecting a specific answer. Since I can't perform the actual check, I need to explain that the answer can't be determined without using the NCBI APIs. But in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. Therefore, the answer would be that the sequence is from a specific organism, but I need to use the NCBI APIs to find out.
+</think>
+
+To determine the organism of the DNA sequence, you would typically use a BLAST search against a database of known sequences (e.g., NCBI's nr or nt databases). However, since I cannot perform real-time API calls here, I can guide you on how to do this:  
+
+1. **Use BLAST**: Paste the sequence into the NCBI BLAST tool (https://blast.ncbi.nlm.nih.gov/Blast.cgi) and select a database (e.g., nr for protein sequences or nt for nucleotide sequences).  
+2. **Analyze Results**: The BLAST output will show the organism associated with the sequence.  
+
+For example, if the sequence is from a human gene, the result might indicate *Homo sapiens*. If the sequence is from a mouse gene, it might indicate *Mus musculus*, and so on.  
+
+**Answer**: The organism cannot be determined without performing a BLAST search. Use the NCBI BLAST tool to identify the source organism.","<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this. The sequence provided is: TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC.
+
+First, I need to recall that determining the organism of a DNA sequence typically involves using bioinformatics tools or databases. The user might be trying to identify the source of this sequence, perhaps for research or educational purposes. They might not be familiar with the specific tools or databases like NCBI, so I should explain the process clearly.
+
+The user might be expecting me to use the NCBI Web APIs, as per the previous interactions. However, the question is about the organism, which could be addressed by checking the sequence's origin. But wait, the user is asking for the organism, not the gene or SNP. So, maybe using the BLAST tool to compare the sequence against known databases. Alternatively, if the sequence is from a known gene, the organism might be inferred from that.
+
+But the problem is that the user hasn't provided any context about the sequence's origin. They just gave a sequence. So, the approach would be to perform a BLAST search against a database of known sequences to find the organism. However, since I can't actually perform the BLAST here, I need to explain the steps or maybe provide an example answer based on known sequences.
+
+Wait, in the previous examples, the assistant used NCBI's APIs to get answers. But for this question, the user is asking for the organism, which is a bit different. The answer might not be straightforward unless the sequence is known. For example, if the sequence is from a human gene, the answer would be Homo sapiens. But without knowing the sequence's origin, how can I determine that?
+
+Alternatively, maybe the user is expecting me to use the NCBI's Entrez Gene database to find the organism associated with the sequence. But the sequence provided is just a stretch of DNA, not a gene or protein. So, the answer would depend on the specific sequence. However, without knowing the exact sequence, the assistant can't provide a specific answer. But in the previous example, the assistant was able to answer the question by using the NCBI APIs, so maybe in this case, the answer is that the sequence is from a specific organism, but how?
+
+Alternatively, maybe the user is testing if I can recognize the sequence. For example, if the sequence is a known gene, but the sequence provided is 80 characters long. Let me check the length. The sequence is 80 nucleotides long. If I can't perform a BLAST, maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. However, since I'm an AI, I can't perform real-time API calls, so I need to explain that. But in the previous examples, the assistant did provide answers, so maybe the answer is that the sequence is from a specific organism, but I need to simulate that.
+
+Alternatively, maybe the sequence is from a known gene, and the organism is determined based on that. For example, if the sequence is part of a gene that's known to be in a specific organism. But without knowing the sequence's content, it's hard to say. However, the user might have given a sequence that's part of a known gene, so the answer would be the organism. Alternatively, the user might have provided a sequence that's from a specific organism, like human, mouse, etc.
+
+But since I can't actually perform the BLAST or use the NCBI APIs here, I need to inform the user that I can't do that without access to the tools. However, in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. But since I can't perform that, perhaps the answer is that the sequence is from a specific organism, but I need to check it.
+
+Alternatively, maybe the user is expecting a general answer, but that's not possible. So, the correct approach is to explain that the sequence's organism can be determined by using BLAST against a database, but since I can't perform that, I need to mention that. However, in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. But since I can't, maybe the answer is that the sequence is from Homo sapiens, but that's a guess.
+
+Wait, maybe the user is testing if I can recognize the sequence. Let me check the sequence. The sequence is: TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC. Let me count the length: 80 bases. Maybe this is a part of a known gene. For example, if I search for this sequence in the NCBI database, but I can't do that here. Alternatively, maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. However, since I can't, I need to explain that. But the previous examples show that the assistant can provide answers, so maybe the answer is that the sequence is from a specific organism, but I need to check.
+
+Alternatively, maybe the answer is that the sequence is from a specific organism, like Homo sapiens, but that's a guess. However, the user might be expecting a specific answer. Since I can't perform the actual check, I need to explain that the answer can't be determined without using the NCBI APIs. But in the previous examples, the assistant provided answers, so maybe the answer is that the sequence is from a specific organism, but I need to use the NCBI APIs. Therefore, the answer would be that the sequence is from a specific organism, but I need to use the NCBI APIs to find out.
+</think>
+
+To determine the organism of the DNA sequence, you would typically use a BLAST search against a database of known sequences (e.g., NCBI's nr or nt databases). However, since I cannot perform real-time API calls here, I can guide you on how to do this:  
+
+1. **Use BLAST**: Paste the sequence into the NCBI BLAST tool (https://blast.ncbi.nlm.nih.gov/Blast.cgi) and select a database (e.g., nr for protein sequences or nt for nucleotide sequences).  
+2. **Analyze Results**: The BLAST output will show the organism associated with the sequence.  
+
+For example, if the sequence is from a human gene, the result might indicate *Homo sapiens*. If the sequence is from a mouse gene, it might indicate *Mus musculus*, and so on.  
+
+**Answer**: The organism cannot be determined without performing a BLAST search. Use the NCBI BLAST tool to identify the source organism.",0,True
+220,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT,worm,Homo sapiens,human,0,True
+221,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA,mouse,Homo sapiens,human,0,True
+222,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA,rat,Homo sapiens,human,0,True
+223,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA,worm,Human (Homo sapiens),Human (Homo sapiens),0,True
+224,Multi-species DNA aligment,Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT,human,Homo sapiens,human,1,True
+225,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT,yeast,Homo sapiens,human,0,True
+226,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC,zebrafish,Homo sapiens,human,0,True
+227,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA,chicken,Homo sapiens,human,0,True
+228,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT,rat,Homo sapiens,human,0,True
+229,Multi-species DNA aligment,Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG,human,"** The organism is likely **Homo sapiens**, but this requires verification via NCBI databases.","** The organism is likely **Homo sapiens**, but this requires verification via NCBI databases.",0,True
+230,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT,chicken,Homo sapiens,human,0,True
+231,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA,yeast,Homo sapiens,human,0,True
+232,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT,worm,Homo sapiens**,Homo sapiens**,0,True
+233,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT,zebrafish,Homo sapiens,human,0,True
+234,Multi-species DNA aligment,Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA,zebrafish,Human,Human,0,True
+235,Multi-species DNA aligment,Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC,yeast,Human (Homo sapiens),Human (Homo sapiens),0,True
+236,Multi-species DNA aligment,Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA,zebrafish,Homo sapiens,human,0,True
+237,Multi-species DNA aligment,Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC,mouse,Homo sapiens,human,0,True
+238,Multi-species DNA aligment,Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC,human,Homo sapiens,human,1,True
+239,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC,chicken,Human (Homo sapiens),Human (Homo sapiens),0,True
+240,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA,zebrafish,"<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that DNA sequences can be analyzed using NCBI's databases. The user provided a specific sequence, so I should check if this sequence is present in any known genomes. But wait, the user is asking for the organism, not the gene or protein. So maybe I should look up the sequence in the NCBI database to find the organism.
+
+But how do I do that? The user might be expecting me to use the NCBI API or some tool. However, in this case, the user is asking for the organism, so maybe the sequence is from a known species. Alternatively, the sequence might be from a specific organism, like a human, mouse, or another species. 
+
+Wait, the sequence is 60 nucleotides long. Let me check if that's a standard length for a particular gene or region. Alternatively, maybe the sequence is part of a known gene or region in a specific organism. But without more context, it's hard to tell. 
+
+Alternatively, the user might be expecting me to run a BLAST search against the NCBI database to find the organism. But since I can't actually perform a BLAST search here, I need to rely on existing knowledge. However, I might not have that information. 
+
+Wait, the user is asking for the organism, so maybe the sequence is from a specific organism. For example, if the sequence is from a human gene, it would be in the human genome. But without knowing the sequence, I can't be sure. 
+
+Alternatively, maybe the user is testing if I can recognize that the sequence is from a specific organism. But I need to check if this sequence is part of a known gene or protein. However, since I can't access the internet, I need to rely on my existing knowledge. 
+
+Wait, the previous examples the user gave were about gene symbols and SNPs. So maybe this is a follow-up question. But the user is now asking for the organism of a given DNA sequence. 
+
+Alternatively, maybe the sequence is from a specific organism, like a mouse or a plant. But without more information, I can't be certain. However, the user might be expecting an answer based on known sequences. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer would be human. But again, without checking, I can't be sure. 
+
+Wait, the user provided a specific sequence. Let me try to think if I have any prior knowledge of this sequence. Alternatively, maybe the sequence is part of a known gene in a specific organism. But without access to databases, I can't look it up. 
+
+Hmm. The user might be expecting me to use the NCBI API, but since I can't do that, I need to answer based on existing knowledge. However, I might not have that information. In that case, I should inform the user that I can't determine the organism without checking the database. But the user is expecting an answer, so maybe I should explain that and provide a possible answer based on known sequences. 
+
+Alternatively, the sequence might be from a specific organism, like a mouse, but I'm not sure. Wait, the user might have given a sequence that's part of a known gene in a specific organism. For example, if the sequence is from the human genome, then the answer would be human. But again, without checking, I can't be certain. 
+
+Alternatively, maybe the sequence is from a viral genome, but that's less likely. 
+
+In conclusion, without performing a BLAST search or checking the NCBI database, I can't accurately determine the organism. However, if I have to give an answer based on possible known sequences, I might have to say that the sequence is from a specific organism, but I can't be certain. Alternatively, the user might be expecting me to use the NCBI API, but since I can't do that, I need to explain that. But the previous examples show that the user expects an answer. 
+
+Wait, maybe the user is testing if I can recognize that the sequence is from a specific organism. For example, if the sequence is part of a known gene in a specific organism. However, without more information, I can't be sure. 
+
+In this case, I think the best approach is to inform the user that I can't determine the organism without checking the database, but since the user expects an answer, maybe I should provide a possible answer based on known sequences. However, I'm not confident. Alternatively, the answer could be that the sequence is from a specific organism, but I need to check. 
+
+But given that the user is expecting an answer, I might have to make an educated guess. However, I should be careful not to give incorrect information. So, I'll have to state that I can't determine the organism without checking the database, but if I have to give an answer, I might need to say that the sequence is from a specific organism. 
+
+But in the previous examples, the user got answers like PSMB10, LINC01270, KRT12, etc., which are genes. So maybe the user is expecting a similar answer here. But the question is about the organism, not the gene. 
+
+Alternatively, maybe the sequence is part of a known gene in a specific organism, and the answer is the organism. For example, if the sequence is from a human gene, the answer is ""Homo sapiens"". But again, without checking, I can't be sure. 
+
+Therefore, the correct approach is to explain that I can't determine the organism without using the NCBI database, but if I have to give an answer, I might have to say that the sequence is from a specific organism, but I can't be certain. However, the user might be expecting an answer, so I need to check if the sequence is from a known organism. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer is human. But again, without checking, I can't know. 
+
+Therefore, the answer would be that I can't determine the organism without checking the database, but if I have to provide an answer, I can't do so accurately. However, since the user is expecting an answer, perhaps I should state that the sequence is from a specific organism, but without more information, I can't provide the exact answer. 
+
+But in the previous examples, the user got answers based on gene symbols and SNPs. So maybe in this case, the answer is that the sequence is from a specific organism, but I need to check. 
+
+Alternatively, maybe the user is expecting me to use the NCBI API to find the organism. Since I can't do that, I have to inform the user that I can't perform that task. 
+
+So, the final answer is that I can't determine the organism without checking the database, but if I have to provide an answer, I can't do so accurately. However, the user might be expecting an answer, so I need to check if there's a way to infer it. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer is human. But again, without checking, I can't be sure. 
+
+In conclusion, the correct answer is that I can't determine the organism without checking the NCBI database. However, since the user is expecting an answer, I might need to provide a possible answer based on known sequences. But I'm not confident. Therefore, I should state that I can't determine the organism without checking the database.
+</think>
+
+To determine the organism of the provided DNA sequence, I would typically use tools like BLAST or the NCBI database to compare the sequence against known genomes. However, since I cannot perform real-time database queries, I can only provide a general approach. 
+
+If you have access to the NCBI BLAST tool, you could submit the sequence to BLAST against the nucleotide database (nt) to identify the organism. The result would show the closest match, including the organism's scientific name (e.g., *Homo sapiens*, *Mus musculus*, etc.). 
+
+For example, if the sequence aligns closely with a human gene, the answer would be *Homo sapiens*. If it matches a mouse gene, the answer would be *Mus musculus*, and so on. 
+
+Without specific data, I cannot provide a definitive answer. You may need to use BLAST or other bioinformatics tools to identify the organism.","<think>
+Okay, the user is asking which organism the given DNA sequence comes from. Let me think about how to approach this.
+
+First, I need to recall that DNA sequences can be analyzed using NCBI's databases. The user provided a specific sequence, so I should check if this sequence is present in any known genomes. But wait, the user is asking for the organism, not the gene or protein. So maybe I should look up the sequence in the NCBI database to find the organism.
+
+But how do I do that? The user might be expecting me to use the NCBI API or some tool. However, in this case, the user is asking for the organism, so maybe the sequence is from a known species. Alternatively, the sequence might be from a specific organism, like a human, mouse, or another species. 
+
+Wait, the sequence is 60 nucleotides long. Let me check if that's a standard length for a particular gene or region. Alternatively, maybe the sequence is part of a known gene or region in a specific organism. But without more context, it's hard to tell. 
+
+Alternatively, the user might be expecting me to run a BLAST search against the NCBI database to find the organism. But since I can't actually perform a BLAST search here, I need to rely on existing knowledge. However, I might not have that information. 
+
+Wait, the user is asking for the organism, so maybe the sequence is from a specific organism. For example, if the sequence is from a human gene, it would be in the human genome. But without knowing the sequence, I can't be sure. 
+
+Alternatively, maybe the user is testing if I can recognize that the sequence is from a specific organism. But I need to check if this sequence is part of a known gene or protein. However, since I can't access the internet, I need to rely on my existing knowledge. 
+
+Wait, the previous examples the user gave were about gene symbols and SNPs. So maybe this is a follow-up question. But the user is now asking for the organism of a given DNA sequence. 
+
+Alternatively, maybe the sequence is from a specific organism, like a mouse or a plant. But without more information, I can't be certain. However, the user might be expecting an answer based on known sequences. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer would be human. But again, without checking, I can't be sure. 
+
+Wait, the user provided a specific sequence. Let me try to think if I have any prior knowledge of this sequence. Alternatively, maybe the sequence is part of a known gene in a specific organism. But without access to databases, I can't look it up. 
+
+Hmm. The user might be expecting me to use the NCBI API, but since I can't do that, I need to answer based on existing knowledge. However, I might not have that information. In that case, I should inform the user that I can't determine the organism without checking the database. But the user is expecting an answer, so maybe I should explain that and provide a possible answer based on known sequences. 
+
+Alternatively, the sequence might be from a specific organism, like a mouse, but I'm not sure. Wait, the user might have given a sequence that's part of a known gene in a specific organism. For example, if the sequence is from the human genome, then the answer would be human. But again, without checking, I can't be certain. 
+
+Alternatively, maybe the sequence is from a viral genome, but that's less likely. 
+
+In conclusion, without performing a BLAST search or checking the NCBI database, I can't accurately determine the organism. However, if I have to give an answer based on possible known sequences, I might have to say that the sequence is from a specific organism, but I can't be certain. Alternatively, the user might be expecting me to use the NCBI API, but since I can't do that, I need to explain that. But the previous examples show that the user expects an answer. 
+
+Wait, maybe the user is testing if I can recognize that the sequence is from a specific organism. For example, if the sequence is part of a known gene in a specific organism. However, without more information, I can't be sure. 
+
+In this case, I think the best approach is to inform the user that I can't determine the organism without checking the database, but since the user expects an answer, maybe I should provide a possible answer based on known sequences. However, I'm not confident. Alternatively, the answer could be that the sequence is from a specific organism, but I need to check. 
+
+But given that the user is expecting an answer, I might have to make an educated guess. However, I should be careful not to give incorrect information. So, I'll have to state that I can't determine the organism without checking the database, but if I have to give an answer, I might need to say that the sequence is from a specific organism. 
+
+But in the previous examples, the user got answers like PSMB10, LINC01270, KRT12, etc., which are genes. So maybe the user is expecting a similar answer here. But the question is about the organism, not the gene. 
+
+Alternatively, maybe the sequence is part of a known gene in a specific organism, and the answer is the organism. For example, if the sequence is from a human gene, the answer is ""Homo sapiens"". But again, without checking, I can't be sure. 
+
+Therefore, the correct approach is to explain that I can't determine the organism without using the NCBI database, but if I have to give an answer, I might have to say that the sequence is from a specific organism, but I can't be certain. However, the user might be expecting an answer, so I need to check if the sequence is from a known organism. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer is human. But again, without checking, I can't know. 
+
+Therefore, the answer would be that I can't determine the organism without checking the database, but if I have to provide an answer, I can't do so accurately. However, since the user is expecting an answer, perhaps I should state that the sequence is from a specific organism, but without more information, I can't provide the exact answer. 
+
+But in the previous examples, the user got answers based on gene symbols and SNPs. So maybe in this case, the answer is that the sequence is from a specific organism, but I need to check. 
+
+Alternatively, maybe the user is expecting me to use the NCBI API to find the organism. Since I can't do that, I have to inform the user that I can't perform that task. 
+
+So, the final answer is that I can't determine the organism without checking the database, but if I have to provide an answer, I can't do so accurately. However, the user might be expecting an answer, so I need to check if there's a way to infer it. 
+
+Alternatively, maybe the sequence is from a known gene in a specific organism. For example, if the sequence is part of a gene in the human genome, then the answer is human. But again, without checking, I can't be sure. 
+
+In conclusion, the correct answer is that I can't determine the organism without checking the NCBI database. However, since the user is expecting an answer, I might need to provide a possible answer based on known sequences. But I'm not confident. Therefore, I should state that I can't determine the organism without checking the database.
+</think>
+
+To determine the organism of the provided DNA sequence, I would typically use tools like BLAST or the NCBI database to compare the sequence against known genomes. However, since I cannot perform real-time database queries, I can only provide a general approach. 
+
+If you have access to the NCBI BLAST tool, you could submit the sequence to BLAST against the nucleotide database (nt) to identify the organism. The result would show the closest match, including the organism's scientific name (e.g., *Homo sapiens*, *Mus musculus*, etc.). 
+
+For example, if the sequence aligns closely with a human gene, the answer would be *Homo sapiens*. If it matches a mouse gene, the answer would be *Mus musculus*, and so on. 
+
+Without specific data, I cannot provide a definitive answer. You may need to use BLAST or other bioinformatics tools to identify the organism.",0,True
+241,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC,zebrafish,Human (Homo sapiens),Human (Homo sapiens),0,True
+242,Multi-species DNA aligment,Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG,mouse,Homo sapiens,human,0,True
+243,Multi-species DNA aligment,Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG,yeast,Homo sapiens,human,0,True
+244,Multi-species DNA aligment,Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT,worm,Homo sapiens,human,0,True
+245,Multi-species DNA aligment,Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA,rat,Homo sapiens,human,0,True
+246,Multi-species DNA aligment,Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA,zebrafish,"The DNA sequence provided does not match any known organism in the NCBI database based on current available information. To determine the organism, a BLAST search or sequence analysis via NCBI's tools would be required.","The DNA sequence provided does not match any known organism in the NCBI database based on current available information. To determine the organism, a BLAST search or sequence analysis via NCBI's tools would be required.",0,True
+247,Multi-species DNA aligment,Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA,worm,Homo sapiens,human,0,True
+248,Multi-species DNA aligment,Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT,worm,Homo sapiens,human,0,True
+249,Multi-species DNA aligment,Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC,zebrafish,Homo sapiens,human,0,True
+250,Gene name conversion,Convert ENSG00000215251 to official gene symbol.,FASTKD5,KRT12,KRT12,0,True
+251,Gene name conversion,Convert ENSG00000205403 to official gene symbol.,CFI,PAX6,PAX6,0,True
+252,Gene name conversion,Convert ENSG00000140199 to official gene symbol.,SLC12A6,TNFRSF14,TNFRSF14,0,True
+253,Gene name conversion,Convert ENSG00000149476 to official gene symbol.,TKFC,PSMB10,PSMB10,0,True
+254,Gene name conversion,Convert ENSG00000291317 to official gene symbol.,TMEM276,HLA-DRA,HLA-DRA,0,True
+255,Gene name conversion,Convert ENSG00000174944 to official gene symbol.,P2RY14,TERT,TERT,0,True
+256,Gene name conversion,Convert ENSG00000138604 to official gene symbol.,GLCE,PSMB10,PSMB10,0,True
+257,Gene name conversion,Convert ENSG00000174233 to official gene symbol.,ADCY6,TP53,TP53,0,True
+258,Gene name conversion,Convert ENSG00000165487 to official gene symbol.,MICU2,TP53,TP53,0,True
+259,Gene name conversion,Convert ENSG00000124157 to official gene symbol.,SEMG2,PSMB10,PSMB10,0,True
+260,Gene name conversion,Convert ENSG00000182885 to official gene symbol.,ADGRG3,TSPAN6,TSPAN6,0,True
+261,Gene name conversion,Convert ENSG00000128322 to official gene symbol.,IGLL1,TYK2,TYK2,0,True
+262,Gene name conversion,Convert ENSG00000103199 to official gene symbol.,ZNF500,TP53,TP53,0,True
+263,Gene name conversion,Convert ENSG00000148824 to official gene symbol.,MTG1,TERT,TERT,0,True
+264,Gene name conversion,Convert ENSG00000188343 to official gene symbol.,CIBAR1,ALAS2,ALAS2,0,True
+265,Gene name conversion,Convert ENSG00000077984 to official gene symbol.,CST7,TYK2,TYK2,0,True
+266,Gene name conversion,Convert ENSG00000117528 to official gene symbol.,ABCD3,TSPAN6,TSPAN6,0,True
+267,Gene name conversion,Convert ENSG00000135338 to official gene symbol.,LCA5,TERT,TERT,0,True
+268,Gene name conversion,Convert ENSG00000139370 to official gene symbol.,SLC15A4,TSPAN6,TSPAN6,0,True
+269,Gene name conversion,Convert ENSG00000170209 to official gene symbol.,ANKK1,TSPAN6,TSPAN6,0,True
+270,Gene name conversion,Convert ENSG00000198681 to official gene symbol.,MAGEA1,PSMB10,PSMB10,0,True
+271,Gene name conversion,Convert ENSG00000078549 to official gene symbol.,ADCYAP1R1,TSPAN6,TSPAN6,0,True
+272,Gene name conversion,Convert ENSG00000091592 to official gene symbol.,NLRP1,TSPAN6,TSPAN6,0,True
+273,Gene name conversion,Convert ENSG00000148680 to official gene symbol.,HTR7,TSPAN6,TSPAN6,0,True
+274,Gene name conversion,Convert ENSG00000183943 to official gene symbol.,PRKX,CCL2,CCL2,0,True
+275,Gene name conversion,Convert ENSG00000160791 to official gene symbol.,CCR5,TSPAN6,TSPAN6,0,True
+276,Gene name conversion,Convert ENSG00000162849 to official gene symbol.,KIF26B,PSMB10,PSMB10,0,True
+277,Gene name conversion,Convert ENSG00000147202 to official gene symbol.,DIAPH2,CCL2,CCL2,0,True
+278,Gene name conversion,Convert ENSG00000117586 to official gene symbol.,TNFSF4,TSPAN6,TSPAN6,0,True
+279,Gene name conversion,Convert ENSG00000168591 to official gene symbol.,TMUB2,TUBB3,TUBB3,0,True
+280,Gene name conversion,Convert ENSG00000129474 to official gene symbol.,AJUBA,TP53,TP53,0,True
+281,Gene name conversion,Convert ENSG00000172009 to official gene symbol.,THOP1,PSMB10,PSMB10,0,True
+282,Gene name conversion,Convert ENSG00000189157 to official gene symbol.,FAM47E,PSMB10,PSMB10,0,True
+283,Gene name conversion,Convert ENSG00000196586 to official gene symbol.,MYO6,TSN,TSN,0,True
+284,Gene name conversion,Convert ENSG00000203783 to official gene symbol.,PRR9,PSMB10,PSMB10,0,True
+285,Gene name conversion,Convert ENSG00000126500 to official gene symbol.,FLRT1,TP53,TP53,0,True
+286,Gene name conversion,Convert ENSG00000010404 to official gene symbol.,IDS,TP53,TP53,0,True
+287,Gene name conversion,Convert ENSG00000182022 to official gene symbol.,CHST15,PSMB10,PSMB10,0,True
+288,Gene name conversion,Convert ENSG00000177051 to official gene symbol.,FBXO46,TERT,TERT,0,True
+289,Gene name conversion,Convert ENSG00000172296 to official gene symbol.,SPTLC3,TNF,TNF,0,True
+290,Gene name conversion,Convert ENSG00000120738 to official gene symbol.,EGR1,TERT,TERT,0,True
+291,Gene name conversion,Convert ENSG00000169548 to official gene symbol.,ZNF280A,PSMB10,PSMB10,0,True
+292,Gene name conversion,Convert ENSG00000153060 to official gene symbol.,TEKT5,TP53,TP53,0,True
+293,Gene name conversion,Convert ENSG00000176222 to official gene symbol.,ZNF404,TERT,TERT,0,True
+294,Gene name conversion,Convert ENSG00000168970 to official gene symbol.,JMJD7-PLA2G4B,CDKN2A,CDKN2A,0,True
+295,Gene name conversion,Convert ENSG00000185883 to official gene symbol.,ATP6V0C,TSPAN6,TSPAN6,0,True
+296,Gene name conversion,Convert ENSG00000240694 to official gene symbol.,PNMA2,TERT,TERT,0,True
+297,Gene name conversion,Convert ENSG00000167664 to official gene symbol.,TMIGD2,TERT,TERT,0,True
+298,Gene name conversion,Convert ENSG00000243660 to official gene symbol.,ZNF487,TSPAN6,TSPAN6,0,True
+299,Gene name conversion,Convert ENSG00000132205 to official gene symbol.,EMILIN2,TERT,TERT,0,True
+300,Protein-coding genes,Is ATP5F1EP2 a protein-coding gene?,NA,"Yes, ATP5F1EP2 is a protein-coding gene. It encodes a transmembrane protein involved in mitochondrial ATP synthase function.","Yes, ATP5F1EP2 is a protein-coding gene. It encodes a transmembrane protein involved in mitochondrial ATP synthase function.",0,True
+301,Protein-coding genes,Is LOC124907753 a protein-coding gene?,NA,"No, LOC124907753 is not a protein-coding gene. It is classified as a non-coding RNA (ncRNA) and is associated with alternative splicing events.","No, LOC124907753 is not a protein-coding gene. It is classified as a non-coding RNA (ncRNA) and is associated with alternative splicing events.",0,True
+302,Protein-coding genes,Is AMD1P4 a protein-coding gene?,NA,"Yes, AMD1P4 is a protein-coding gene. It is part of the AMD1 gene family and is associated with certain diseases, though its specific functional role may require further study.","Yes, AMD1P4 is a protein-coding gene. It is part of the AMD1 gene family and is associated with certain diseases, though its specific functional role may require further study.",0,True
+303,Protein-coding genes,Is NODAL a protein-coding gene?,TRUE,"Yes, NODAL is a protein-coding gene. It is located on **chromosome 11** (chr11:127,584,565-127,593,246) and is part of the TGF-β signaling pathway, playing a critical role in embryonic development and organogenesis.","Yes, NODAL is a protein-coding gene. It is located on **chromosome 11** (chr11:127,584,565-127,593,246) and is part of the TGF-β signaling pathway, playing a critical role in embryonic development and organogenesis.",0,True
+304,Protein-coding genes,Is MIR4436B2 a protein-coding gene?,NA,"No, MIR4436B2 is not a protein-coding gene. It is a non-coding RNA (miRNA) associated with the MIR4436 gene family.","No, MIR4436B2 is not a protein-coding gene. It is a non-coding RNA (miRNA) associated with the MIR4436 gene family.",0,True
+305,Protein-coding genes,Is NAXE a protein-coding gene?,TRUE,"Yes, NAXE is a protein-coding gene. It encodes a sodium channel alpha-subunit protein and is located on chromosome 19 (NCBI Gene ID: 126739).","Yes, NAXE is a protein-coding gene. It encodes a sodium channel alpha-subunit protein and is located on chromosome 19 (NCBI Gene ID: 126739).",0,True
+306,Protein-coding genes,Is LOC124909477 a protein-coding gene?,NA,"No, LOC124909477 is not a protein-coding gene. It is classified as a pseudogene (unconfirmed) with no coding sequence (CDS) information.","No, LOC124909477 is not a protein-coding gene. It is classified as a pseudogene (unconfirmed) with no coding sequence (CDS) information.",0,True
+307,Protein-coding genes,Is LINC01560 a protein-coding gene?,NA,"No, LINC01560 is a non-protein-coding RNA gene. It belongs to the long intergenic non-protein-coding RNA (lincRNA) family and is not associated with protein-coding function.","No, LINC01560 is a non-protein-coding RNA gene. It belongs to the long intergenic non-protein-coding RNA (lincRNA) family and is not associated with protein-coding function.",0,True
+308,Protein-coding genes,Is UCKL1-AS1 a protein-coding gene?,NA,"No, UCKL1-AS1 is not a protein-coding gene. It is classified as a long non-coding RNA (lncRNA) and functions as an antisense RNA, typically involved in regulatory mechanisms rather than encoding proteins.","No, UCKL1-AS1 is not a protein-coding gene. It is classified as a long non-coding RNA (lncRNA) and functions as an antisense RNA, typically involved in regulatory mechanisms rather than encoding proteins.",0,True
+309,Protein-coding genes,Is MIR6843 a protein-coding gene?,NA,"No, MIR6843 is not a protein-coding gene. It is a microRNA (miRNA) gene, which is a small non-coding RNA molecule involved in post-transcriptional regulation of gene expression.","No, MIR6843 is not a protein-coding gene. It is a microRNA (miRNA) gene, which is a small non-coding RNA molecule involved in post-transcriptional regulation of gene expression.",0,True
+310,Protein-coding genes,Is RPL7AP58 a protein-coding gene?,NA,"No, RPL7AP58 is not a valid gene symbol in the NCBI database. It appears to be an incorrect or non-existent gene name. Valid protein-coding genes in humans include RPL7AP5 (Ribosomal Protein Large Subunit 7 Associated Protein 5), but RPL7AP58 is not recognized.","No, RPL7AP58 is not a valid gene symbol in the NCBI database. It appears to be an incorrect or non-existent gene name. Valid protein-coding genes in humans include RPL7AP5 (Ribosomal Protein Large Subunit 7 Associated Protein 5), but RPL7AP58 is not recognized.",0,True
+311,Protein-coding genes,Is SERF2 a protein-coding gene?,TRUE,"Yes, SERF2 is a protein-coding gene. It encodes a protein involved in lipid metabolism and membrane transport, with multiple transcript variants. The gene is located on chromosome 12 (NCBI Gene ID: 125633).","Yes, SERF2 is a protein-coding gene. It encodes a protein involved in lipid metabolism and membrane transport, with multiple transcript variants. The gene is located on chromosome 12 (NCBI Gene ID: 125633).",0,True
+312,Protein-coding genes,Is LOC124907937 a protein-coding gene?,NA,"No, LOC124907937 is a pseudogene and not a protein-coding gene.","No, LOC124907937 is a pseudogene and not a protein-coding gene.",0,True
+313,Protein-coding genes,Is RNU6-1193P a protein-coding gene?,NA,"No, RNU6-1193P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the 18S rRNA gene, which is non-coding and involved in ribosome structure rather than protein coding.","No, RNU6-1193P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the 18S rRNA gene, which is non-coding and involved in ribosome structure rather than protein coding.",0,True
+314,Protein-coding genes,Is LOC124903168 a protein-coding gene?,NA,"No, LOC124903168 is not a protein-coding gene. It is classified as a non-coding RNA gene (specifically, a long non-coding RNA).","No, LOC124903168 is not a protein-coding gene. It is classified as a non-coding RNA gene (specifically, a long non-coding RNA).",0,True
+315,Protein-coding genes,Is HMGB1P9 a protein-coding gene?,NA,"Yes, HMGB1P9 is a protein-coding gene. It encodes a protein involved in chromatin structure and DNA repair, and is part of the HMGB1 family.","Yes, HMGB1P9 is a protein-coding gene. It encodes a protein involved in chromatin structure and DNA repair, and is part of the HMGB1 family.",0,True
+316,Protein-coding genes,Is LOC100420990 a protein-coding gene?,NA,"No, LOC100420990 is not a protein-coding gene. It is classified as a pseudogene, which is a non-functional gene fragment derived from a functional gene.","No, LOC100420990 is not a protein-coding gene. It is classified as a pseudogene, which is a non-functional gene fragment derived from a functional gene.",0,True
+317,Protein-coding genes,Is RNU6-1212P a protein-coding gene?,NA,"No, RNU6-1212P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the 5.8S rRNA gene (RNU6), which is non-coding.","No, RNU6-1212P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the 5.8S rRNA gene (RNU6), which is non-coding.",0,True
+318,Protein-coding genes,Is CPVL-AS2 a protein-coding gene?,NA,"No, CPVL-AS2 is not a protein-coding gene. It is classified as a non-coding RNA (specifically, a processed transcript) and is not associated with a protein-coding function.","No, CPVL-AS2 is not a protein-coding gene. It is classified as a non-coding RNA (specifically, a processed transcript) and is not associated with a protein-coding function.",0,True
+319,Protein-coding genes,Is NPFFR1 a protein-coding gene?,TRUE,"Yes, NPFFR1 is a protein-coding gene. It encodes the neurotensin receptor 1 (NTNR1), a G-protein-coupled receptor involved in neurotensin signaling. This gene is located on chromosome 15 (NCBI Gene ID: 111944).","Yes, NPFFR1 is a protein-coding gene. It encodes the neurotensin receptor 1 (NTNR1), a G-protein-coupled receptor involved in neurotensin signaling. This gene is located on chromosome 15 (NCBI Gene ID: 111944).",0,True
+320,Protein-coding genes,Is CYP4F10P a protein-coding gene?,NA,"No, CYP4F10P is not a recognized protein-coding gene. The official gene symbol for this region is **CYP4F10**, which is a protein-coding gene in the cytochrome P450 family. The ""P"" suffix may indicate an alternative name or variant, but it is not a valid gene symbol in the NCBI database.","No, CYP4F10P is not a recognized protein-coding gene. The official gene symbol for this region is **CYP4F10**, which is a protein-coding gene in the cytochrome P450 family. The ""P"" suffix may indicate an alternative name or variant, but it is not a valid gene symbol in the NCBI database.",0,True
+321,Protein-coding genes,Is FANCG a protein-coding gene?,TRUE,"Yes, FANCG is a protein-coding gene. It encodes the FANCG protein, which is involved in DNA repair and is associated with Fanconi anemia.","Yes, FANCG is a protein-coding gene. It encodes the FANCG protein, which is involved in DNA repair and is associated with Fanconi anemia.",0,True
+322,Protein-coding genes,Is CMKLR2 a protein-coding gene?,TRUE,"Yes, CMKLR2 is a protein-coding gene. It encodes a C-type lectin domain family member 2, a receptor involved in immune response and cell signaling.","Yes, CMKLR2 is a protein-coding gene. It encodes a C-type lectin domain family member 2, a receptor involved in immune response and cell signaling.",0,True
+323,Protein-coding genes,Is SSBP3-AS1 a protein-coding gene?,NA,"No, SSBP3-AS1 is not a protein-coding gene. It is an antisense RNA (non-coding RNA) associated with the SSBP3 gene.","No, SSBP3-AS1 is not a protein-coding gene. It is an antisense RNA (non-coding RNA) associated with the SSBP3 gene.",0,True
+324,Protein-coding genes,Is LOC100419835 a protein-coding gene?,NA,"Yes, LOC100419835 is a protein-coding gene. It is annotated as a member of the PIGR gene family and is located on chromosome 10.","Yes, LOC100419835 is a protein-coding gene. It is annotated as a member of the PIGR gene family and is located on chromosome 10.",0,True
+325,Protein-coding genes,Is RNU7-171P a protein-coding gene?,NA,"No, RNU7-171P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a small ribosomal RNA (5S rRNA) gene, and is classified as non-coding.","No, RNU7-171P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a small ribosomal RNA (5S rRNA) gene, and is classified as non-coding.",0,True
+326,Protein-coding genes,Is RPL34P34 a protein-coding gene?,NA,"No, RPL34P34 is not a valid gene symbol. The correct gene symbol for the ribosomal protein is **RPL34**, which is a protein-coding gene. The ""P34"" part does not correspond to a recognized gene entry in the NCBI Gene database.","No, RPL34P34 is not a valid gene symbol. The correct gene symbol for the ribosomal protein is **RPL34**, which is a protein-coding gene. The ""P34"" part does not correspond to a recognized gene entry in the NCBI Gene database.",0,True
+327,Protein-coding genes,Is LOC100526841 a protein-coding gene?,NA,"No, LOC100526841 is not a protein-coding gene. It is classified as a pseudogene, meaning it is a non-functional copy of a gene that has lost its original coding function. This gene is located on chromosome 10 and is part of a cluster of related pseudogenes.","No, LOC100526841 is not a protein-coding gene. It is classified as a pseudogene, meaning it is a non-functional copy of a gene that has lost its original coding function. This gene is located on chromosome 10 and is part of a cluster of related pseudogenes.",0,True
+328,Protein-coding genes,Is TTLL1 a protein-coding gene?,TRUE,"Yes, TTLL1 is a protein-coding gene. It encodes a tyrosyl-tRNA ligase involved in tRNA modification and is associated with certain genetic disorders. The NCBI Gene database (https://www.ncbi.nlm.nih.gov/gene/119124) confirms its protein-coding status.","Yes, TTLL1 is a protein-coding gene. It encodes a tyrosyl-tRNA ligase involved in tRNA modification and is associated with certain genetic disorders. The NCBI Gene database (https://www.ncbi.nlm.nih.gov/gene/119124) confirms its protein-coding status.",0,True
+329,Protein-coding genes,Is CORO1A-AS1 a protein-coding gene?,NA,"No, CORO1A-AS1 is not a protein-coding gene. It is a long non-coding RNA (lncRNA) associated with the CORO1A gene locus, and it does not encode a protein.","No, CORO1A-AS1 is not a protein-coding gene. It is a long non-coding RNA (lncRNA) associated with the CORO1A gene locus, and it does not encode a protein.",0,True
+330,Protein-coding genes,Is SPARC a protein-coding gene?,TRUE,"Yes, SPARC is a protein-coding gene. It encodes the secreted acidic cysteine-rich protein (SPARC), which is involved in extracellular matrix regulation and various cellular processes.","Yes, SPARC is a protein-coding gene. It encodes the secreted acidic cysteine-rich protein (SPARC), which is involved in extracellular matrix regulation and various cellular processes.",0,True
+331,Protein-coding genes,Is LOC100129457 a protein-coding gene?,NA,"No, LOC100129457 is not a protein-coding gene. It is a pseudogene, specifically a member of the PIGF (Placenta Growth Factor) gene family, and is annotated as a non-coding RNA gene in the NCBI Gene database.","No, LOC100129457 is not a protein-coding gene. It is a pseudogene, specifically a member of the PIGF (Placenta Growth Factor) gene family, and is annotated as a non-coding RNA gene in the NCBI Gene database.",0,True
+332,Protein-coding genes,Is HOTAIR a protein-coding gene?,NA,"No, HOTAIR is not a protein-coding gene. It is a long intergenic non-protein coding RNA (lncRNA) gene.","No, HOTAIR is not a protein-coding gene. It is a long intergenic non-protein coding RNA (lncRNA) gene.",0,True
+333,Protein-coding genes,Is CAAP1 a protein-coding gene?,TRUE,"Yes, CAAP1 is a protein-coding gene.","Yes, CAAP1 is a protein-coding gene.",0,True
+334,Protein-coding genes,Is PIGCP1 a protein-coding gene?,NA,"No, PIGCP1 is not a protein-coding gene. The official protein-coding gene symbol is **PIGC**. PIGCP1 is a pseudogene (non-coding) and is not associated with protein synthesis.","No, PIGCP1 is not a protein-coding gene. The official protein-coding gene symbol is **PIGC**. PIGCP1 is a pseudogene (non-coding) and is not associated with protein synthesis.",0,True
+335,Protein-coding genes,Is LINC01054 a protein-coding gene?,NA,"No, LINC01054 is not a protein-coding gene. It is a long intergenic non-coding RNA (lincRNA) associated with regulatory functions rather than encoding proteins.","No, LINC01054 is not a protein-coding gene. It is a long intergenic non-coding RNA (lincRNA) associated with regulatory functions rather than encoding proteins.",0,True
+336,Protein-coding genes,Is SPOP a protein-coding gene?,TRUE,"Yes, SPOP is a protein-coding gene.","Yes, SPOP is a protein-coding gene.",0,True
+337,Protein-coding genes,Is RNU6-746P a protein-coding gene?,NA,"No, RNU6-746P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the RNU6 gene, which encodes a small nucleolar RNA (snoRNA) or ribosomal RNA. Protein-coding genes are typically annotated with symbols like TP53, BRCA1, or others, while RNA genes like RNU6 are classified as non-coding or structural RNA genes.","No, RNU6-746P is not a protein-coding gene. It is a ribosomal RNA (rRNA) gene, specifically a variant of the RNU6 gene, which encodes a small nucleolar RNA (snoRNA) or ribosomal RNA. Protein-coding genes are typically annotated with symbols like TP53, BRCA1, or others, while RNA genes like RNU6 are classified as non-coding or structural RNA genes.",0,True
+338,Protein-coding genes,Is POLE4P1 a protein-coding gene?,NA,"No, POLE4P1 is not a protein-coding gene. It is classified as a pseudogene.","No, POLE4P1 is not a protein-coding gene. It is classified as a pseudogene.",0,True
+339,Protein-coding genes,Is RASSF3-DT a protein-coding gene?,NA,"Yes, RASSF3-DT is a protein-coding gene. It is a transcript variant of the RASSF3 gene, which encodes a protein involved in cell signaling and tumor suppression. The ""-DT"" suffix indicates a specific transcript variant.","Yes, RASSF3-DT is a protein-coding gene. It is a transcript variant of the RASSF3 gene, which encodes a protein involved in cell signaling and tumor suppression. The ""-DT"" suffix indicates a specific transcript variant.",0,True
+340,Protein-coding genes,Is RPL31P19 a protein-coding gene?,NA,"No, RPL31P19 is not a protein-coding gene. It is a pseudogene, which is a non-coding variant of a protein-coding gene. The protein-coding gene associated with this pseudogene is **RPL31**.","No, RPL31P19 is not a protein-coding gene. It is a pseudogene, which is a non-coding variant of a protein-coding gene. The protein-coding gene associated with this pseudogene is **RPL31**.",0,True
+341,Protein-coding genes,Is FBXO3-DT a protein-coding gene?,NA,"Yes, FBXO3-DT is a protein-coding gene. It is an alternative transcript variant of the **FBXO3** gene, which encodes a F-box protein involved in ubiquitin-mediated proteolysis. The ""-DT"" suffix denotes a specific isoform, and it is annotated as a protein-coding gene in databases like NCBI Gene.","Yes, FBXO3-DT is a protein-coding gene. It is an alternative transcript variant of the **FBXO3** gene, which encodes a F-box protein involved in ubiquitin-mediated proteolysis. The ""-DT"" suffix denotes a specific isoform, and it is annotated as a protein-coding gene in databases like NCBI Gene.",0,True
+342,Protein-coding genes,Is DNAJB6P2 a protein-coding gene?,NA,"DNAJB6P2 is not a recognized gene symbol. The official gene symbol for the protein-coding gene in this context is **DNAJB6**, which encodes a member of the DNAJ family of heat shock proteins.","DNAJB6P2 is not a recognized gene symbol. The official gene symbol for the protein-coding gene in this context is **DNAJB6**, which encodes a member of the DNAJ family of heat shock proteins.",0,True
+343,Protein-coding genes,Is LINC02865 a protein-coding gene?,NA,"No, LINC02865 is not a protein-coding gene. It is a long intergenic non-coding RNA (lincRNA) associated with regulatory functions rather than protein coding.","No, LINC02865 is not a protein-coding gene. It is a long intergenic non-coding RNA (lincRNA) associated with regulatory functions rather than protein coding.",0,True
+344,Protein-coding genes,Is AFF1 a protein-coding gene?,TRUE,"Yes, AFF1 is a protein-coding gene. It encodes a protein known as AF-4/FBF1, which is involved in cell proliferation and has been implicated in certain cancers. The gene is located on chromosome 17 (chr17) and is associated with multiple transcript variants.","Yes, AFF1 is a protein-coding gene. It encodes a protein known as AF-4/FBF1, which is involved in cell proliferation and has been implicated in certain cancers. The gene is located on chromosome 17 (chr17) and is associated with multiple transcript variants.",0,True
+345,Protein-coding genes,Is PWWP2A a protein-coding gene?,TRUE,"Yes, PWWP2A is a protein-coding gene. It encodes a protein containing the PWWP domain, which is involved in chromatin modification and gene regulation. This gene is annotated in the NCBI Gene database as a protein-coding gene (gene ID: 10452).","Yes, PWWP2A is a protein-coding gene. It encodes a protein containing the PWWP domain, which is involved in chromatin modification and gene regulation. This gene is annotated in the NCBI Gene database as a protein-coding gene (gene ID: 10452).",0,True
+346,Protein-coding genes,Is LOC105369759 a protein-coding gene?,NA,"Yes, LOC105369759 is a protein-coding gene. It is classified as a protein-coding gene in the NCBI Gene database, though it may not have a well-characterized function or associated protein.","Yes, LOC105369759 is a protein-coding gene. It is classified as a protein-coding gene in the NCBI Gene database, though it may not have a well-characterized function or associated protein.",0,True
+347,Protein-coding genes,Is B3GAT1 a protein-coding gene?,TRUE,"Yes, B3GAT1 is a protein-coding gene. It encodes a glycosyltransferase enzyme involved in carbohydrate metabolism. The NCBI Gene database confirms it as a protein-coding gene (Gene ID: 125825).","Yes, B3GAT1 is a protein-coding gene. It encodes a glycosyltransferase enzyme involved in carbohydrate metabolism. The NCBI Gene database confirms it as a protein-coding gene (Gene ID: 125825).",0,True
+348,Protein-coding genes,Is MIR22HG a protein-coding gene?,NA,"No, MIR22HG is a non-coding RNA gene and not a protein-coding gene.","No, MIR22HG is a non-coding RNA gene and not a protein-coding gene.",0,True
+349,Protein-coding genes,Is CGGBP1 a protein-coding gene?,TRUE,"Yes, CGGBP1 is a protein-coding gene. It encodes the CGGBP1 protein, which is involved in DNA repair and cell cycle regulation. This gene is listed in the NCBI Gene database (Gene ID: [123456](https://www.ncbi.nlm.nih.gov/gene/123456)) as a protein-coding gene.","Yes, CGGBP1 is a protein-coding gene. It encodes the CGGBP1 protein, which is involved in DNA repair and cell cycle regulation. This gene is listed in the NCBI Gene database (Gene ID: [123456](https://www.ncbi.nlm.nih.gov/gene/123456)) as a protein-coding gene.",0,True
+350,Gene SNP association,Which gene is SNP rs1217074595 associated with?,LINC01270,LINC01270,LINC01270,1,True
+351,Gene SNP association,Which gene is SNP rs1241371358 associated with?,LRRC23,KCNIP1,KCNIP1,0,True
+352,Gene SNP association,Which gene is SNP rs1481036795 associated with?,SEPTIN11,The SNP rs1481036795 is not found in the NCBI database.,The SNP rs1481036795 is not found in the NCBI database.,0,True
+353,Gene SNP association,Which gene is SNP rs1318850293 associated with?,PLEKHG7,KRT12,KRT12,0,True
+354,Gene SNP association,Which gene is SNP rs996319727 associated with?,USP39,LINC01270,LINC01270,0,True
+355,Gene SNP association,Which gene is SNP rs577757681 associated with?,OXR1,The SNP rs577757681 is not associated with any gene in the NCBI database. Please verify the SNP details or check the latest NCBI resources for updated information.,The SNP rs577757681 is not associated with any gene in the NCBI database. Please verify the SNP details or check the latest NCBI resources for updated information.,0,True
+356,Gene SNP association,Which gene is SNP rs1294482311 associated with?,DMXL1,KMT2A,KMT2A,0,True
+357,Gene SNP association,Which gene is SNP rs979970652 associated with?,KHDRBS2,TSPAN6,TSPAN6,0,True
+358,Gene SNP association,Which gene is SNP rs1029002401 associated with?,MAJIN,KRT12,KRT12,0,True
+359,Gene SNP association,Which gene is SNP rs1015227 associated with?,SCHLAP1,CYP1A2,CYP1A2,0,True
+360,Gene SNP association,Which gene is SNP rs1278530438 associated with?,LDLRAD4,LINC01270,LINC01270,0,True
+361,Gene SNP association,Which gene is SNP rs745325402 associated with?,CALCR,KRT12,KRT12,0,True
+362,Gene SNP association,Which gene is SNP rs4704888 associated with?,SGCD,HLA-A,HLA-A,0,True
+363,Gene SNP association,Which gene is SNP rs1201372088 associated with?,ZBTB25,KRT12,KRT12,0,True
+364,Gene SNP association,Which gene is SNP rs1324451169 associated with?,MED26,LINC01270,LINC01270,0,True
+365,Gene SNP association,Which gene is SNP rs983419152 associated with?,LINC02055,KCNIP2,KCNIP2,0,True
+366,Gene SNP association,Which gene is SNP rs745940901 associated with?,JMJD1C,LINC01270,LINC01270,0,True
+367,Gene SNP association,Which gene is SNP rs1303680136 associated with?,XKR9,LINC01270,LINC01270,0,True
+368,Gene SNP association,Which gene is SNP rs1053827498 associated with?,NSMCE1,"The SNP rs1053827498 is not found in the NCBI dbSNP database. It may be an invalid identifier or a recently added variant not yet cataloged. For confirmation, please verify the SNP ID or check updated databases.","The SNP rs1053827498 is not found in the NCBI dbSNP database. It may be an invalid identifier or a recently added variant not yet cataloged. For confirmation, please verify the SNP ID or check updated databases.",0,True
+369,Gene SNP association,Which gene is SNP rs1350154096 associated with?,LOC107986092,HLA-DRA,HLA-DRA,0,True
+370,Gene SNP association,Which gene is SNP rs1037441458 associated with?,LOC105372191,KRT3,KRT3,0,True
+371,Gene SNP association,Which gene is SNP rs900408143 associated with?,RBFOX1,The SNP rs900408143 is not found in the database.,The SNP rs900408143 is not found in the database.,0,True
+372,Gene SNP association,Which gene is SNP rs900532834 associated with?,PAK1,LINC01270,LINC01270,0,True
+373,Gene SNP association,Which gene is SNP rs1281200566 associated with?,CCT8L2,KRT12,KRT12,0,True
+374,Gene SNP association,Which gene is SNP rs1431266687 associated with?,CACNB2,KMT2A,KMT2A,0,True
+375,Gene SNP association,Which gene is SNP rs900745020 associated with?,CREB5,KRT12,KRT12,0,True
+376,Gene SNP association,Which gene is SNP rs1188606225 associated with?,GAREM1,LINC01270,LINC01270,0,True
+377,Gene SNP association,Which gene is SNP rs902730377 associated with?,LOC105372323,LINC01270,LINC01270,0,True
+378,Gene SNP association,Which gene is SNP rs1044115387 associated with?,GLIS3,The SNP rs1044115387 is not found in the NCBI SNP database or associated with any known gene.,The SNP rs1044115387 is not found in the NCBI SNP database or associated with any known gene.,0,True
+379,Gene SNP association,Which gene is SNP rs979980368 associated with?,FAM53B,LINC01270,LINC01270,0,True
+380,Gene SNP association,Which gene is SNP rs1161130206 associated with?,EMX2OS,LINC01270,LINC01270,0,True
+381,Gene SNP association,Which gene is SNP rs910422326 associated with?,ANKFN1,KRT3,KRT3,0,True
+382,Gene SNP association,Which gene is SNP rs1035892430 associated with?,TSPAN15,KRT12,KRT12,0,True
+383,Gene SNP association,Which gene is SNP rs1255093658 associated with?,TENM3,KRT12,KRT12,0,True
+384,Gene SNP association,Which gene is SNP rs1257276516 associated with?,LOC100506403,KRT3,KRT3,0,True
+385,Gene SNP association,Which gene is SNP rs563369098 associated with?,LINC01673,KRT12,KRT12,0,True
+386,Gene SNP association,Which gene is SNP rs1032834815 associated with?,FNDC3B,PSMB10,PSMB10,0,True
+387,Gene SNP association,Which gene is SNP rs552952471 associated with?,RARB,SLC6A15,SLC6A15,0,True
+388,Gene SNP association,Which gene is SNP rs1452964195 associated with?,LINC03021,LINC01270,LINC01270,0,True
+389,Gene SNP association,Which gene is SNP rs949202492 associated with?,NECAB2,LINC01270,LINC01270,0,True
+390,Gene SNP association,Which gene is SNP rs1218214598 associated with?,MIR4527HG,LINC01270,LINC01270,0,True
+391,Gene SNP association,Which gene is SNP rs1022906840 associated with?,CCDC178,KRT12,KRT12,0,True
+392,Gene SNP association,Which gene is SNP rs1199372758 associated with?,RUBCN,LINC01270,LINC01270,0,True
+393,Gene SNP association,Which gene is SNP rs1396355441 associated with?,PTPRB,KRT12,KRT12,0,True
+394,Gene SNP association,Which gene is SNP rs1432624213 associated with?,SLC22A14,LINC01270,LINC01270,0,True
+395,Gene SNP association,Which gene is SNP rs937944577 associated with?,IFFO1,LINC01270,LINC01270,0,True
+396,Gene SNP association,Which gene is SNP rs1450106117 associated with?,MED13,KRT12,KRT12,0,True
+397,Gene SNP association,Which gene is SNP rs34083046 associated with?,MICU1,PSMB10,PSMB10,0,True
+398,Gene SNP association,Which gene is SNP rs149916046 associated with?,LINC02841,C11orf11,C11orf11,0,True
+399,Gene SNP association,Which gene is SNP rs1385096481 associated with?,LRFN5,KRT12,KRT12,0,True
+400,SNP location,Which chromosome does SNP rs1430464868 locate on human genome?,chr13,chr1,chr1,0,True
+401,SNP location,Which chromosome does SNP rs545148486 locate on human genome?,chr16,chr15,chr15,0,True
+402,SNP location,Which chromosome does SNP rs895485955 locate on human genome?,chr19,chr17,chr17,0,True
+403,SNP location,Which chromosome does SNP rs1376217783 locate on human genome?,chr11,chr15,chr15,0,True
+404,SNP location,Which chromosome does SNP rs1420724913 locate on human genome?,chr16,chr15,chr15,0,True
+405,SNP location,Which chromosome does SNP rs992486373 locate on human genome?,chr15,chr19,chr19,0,True
+406,SNP location,Which chromosome does SNP rs975300764 locate on human genome?,chr4,chr13,chr13,0,True
+407,SNP location,Which chromosome does SNP rs993131098 locate on human genome?,chr14,chr15,chr15,0,True
+408,SNP location,Which chromosome does SNP rs899883800 locate on human genome?,chr1,chr1,chr1,1,True
+409,SNP location,Which chromosome does SNP rs547832386 locate on human genome?,chr15,chr17,chr17,0,True
+410,SNP location,Which chromosome does SNP rs1212113267 locate on human genome?,chr22,chr17,chr17,0,True
+411,SNP location,Which chromosome does SNP rs1435895561 locate on human genome?,chr19,chr17,chr17,0,True
+412,SNP location,Which chromosome does SNP rs427884 locate on human genome?,chr11,chr15,chr15,0,True
+413,SNP location,Which chromosome does SNP rs1188706680 locate on human genome?,chr4,chr17,chr17,0,True
+414,SNP location,Which chromosome does SNP rs1316126938 locate on human genome?,chr18,chr17,chr17,0,True
+415,SNP location,Which chromosome does SNP rs1398189587 locate on human genome?,chr4,chr15,chr15,0,True
+416,SNP location,Which chromosome does SNP rs1372020525 locate on human genome?,chr14,chr15,chr15,0,True
+417,SNP location,Which chromosome does SNP rs188137472 locate on human genome?,chr17,chr15,chr15,0,True
+418,SNP location,Which chromosome does SNP rs1246801490 locate on human genome?,chr18,chr19,chr19,0,True
+419,SNP location,Which chromosome does SNP rs983633514 locate on human genome?,chr8,chr15,chr15,0,True
+420,SNP location,Which chromosome does SNP rs1274126968 locate on human genome?,chr14,chr17,chr17,0,True
+421,SNP location,Which chromosome does SNP rs1392348488 locate on human genome?,chr22,chr15,chr15,0,True
+422,SNP location,Which chromosome does SNP rs965556407 locate on human genome?,chr4,chr19,chr19,0,True
+423,SNP location,Which chromosome does SNP rs999510594 locate on human genome?,chr16,chr15,chr15,0,True
+424,SNP location,Which chromosome does SNP rs1412275115 locate on human genome?,chr17,chr17,chr17,1,True
+425,SNP location,Which chromosome does SNP rs951388492 locate on human genome?,chr14,chr17,chr17,0,True
+426,SNP location,Which chromosome does SNP rs967011458 locate on human genome?,chr4,chr17,chr17,0,True
+427,SNP location,Which chromosome does SNP rs555675816 locate on human genome?,chr8,chr17,chr17,0,True
+428,SNP location,Which chromosome does SNP rs1333853138 locate on human genome?,chr22,chr11,chr11,0,True
+429,SNP location,Which chromosome does SNP rs910383316 locate on human genome?,chr1,chr15**,chr15**,0,True
+430,SNP location,Which chromosome does SNP rs563617526 locate on human genome?,chr11,chr15,chr15,0,True
+431,SNP location,Which chromosome does SNP rs1357251061 locate on human genome?,chr21,chr15,chr15,0,True
+432,SNP location,Which chromosome does SNP rs1401416674 locate on human genome?,chr10,chr15,chr15,0,True
+433,SNP location,Which chromosome does SNP rs76491275 locate on human genome?,chr21,chr15,chr15,0,True
+434,SNP location,Which chromosome does SNP rs141272872 locate on human genome?,chr3,chr15,chr15,0,True
+435,SNP location,Which chromosome does SNP rs1281763211 locate on human genome?,chr4,chr17,chr17,0,True
+436,SNP location,Which chromosome does SNP rs1278117191 locate on human genome?,chr20,chr17,chr17,0,True
+437,SNP location,Which chromosome does SNP rs1239675264 locate on human genome?,chr21,chr17,chr17,0,True
+438,SNP location,Which chromosome does SNP rs866998836 locate on human genome?,chr17,chr15,chr15,0,True
+439,SNP location,Which chromosome does SNP rs1228002921 locate on human genome?,chr2,17,chr17,0,True
+440,SNP location,Which chromosome does SNP rs976400036 locate on human genome?,chr19,The SNP rs976400036 is not found in the NCBI dbSNP database.,chrdatabase.,0,True
+441,SNP location,Which chromosome does SNP rs397784008 locate on human genome?,chr15,chr17,chr17,0,True
+442,SNP location,Which chromosome does SNP rs1170945868 locate on human genome?,chr22,chr1,chr1,0,True
+443,SNP location,Which chromosome does SNP rs990783431 locate on human genome?,chr3,chr17,chr17,0,True
+444,SNP location,Which chromosome does SNP rs1041819671 locate on human genome?,chr5,chr17,chr17,0,True
+445,SNP location,Which chromosome does SNP rs139642661 locate on human genome?,chr14,chr17,chr17,0,True
+446,SNP location,Which chromosome does SNP rs1263053296 locate on human genome?,chr14,chr15,chr15,0,True
+447,SNP location,Which chromosome does SNP rs1391145256 locate on human genome?,chr12,chr12,chr12,1,True
+448,SNP location,Which chromosome does SNP rs1002944049 locate on human genome?,chr9,chr15,chr15,0,True
+449,SNP location,Which chromosome does SNP rs962314907 locate on human genome?,chr5,chr15,chr15,0,True
